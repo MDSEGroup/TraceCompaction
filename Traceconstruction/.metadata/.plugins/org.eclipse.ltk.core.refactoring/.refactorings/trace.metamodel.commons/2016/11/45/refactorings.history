@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 packages to &apos;trace.metamodel.semantics/src&apos;&#x0D;&#x0A;- Original project: &apos;trace.metamodel.commons&apos;&#x0D;&#x0A;- Destination element: &apos;trace.metamodel.semantics/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     trace.metamodel.commons/src/tracemetamodel.xtend&#x0D;&#x0A;     trace.metamodel.commons/src/tracemetamodel.java&#x0D;&#x0A;- Update references to refactored element" description="Move packages" destination="=trace.metamodel.semantics/src" element1="/src&lt;tracemetamodel.xtend" element2="/src&lt;tracemetamodel.java" flags="589830" fragments="2" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1478278091450" version="1.0"/>
+</session>

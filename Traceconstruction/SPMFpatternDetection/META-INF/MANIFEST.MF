@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SPMFpatternDetection
+Bundle-SymbolicName: SPMFpatternDetection
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: spmfpatterndetection.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ trace.metamodel;bundle-version="0.1.0",
+ trace.metamodel.semantics;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Export-Package: ca.pfv.spmf.algorithms.frequentpatterns.lcm,
+ ca.pfv.spmf.patterns,
+ ca.pfv.spmf.patterns.itemset_array_integers_with_count

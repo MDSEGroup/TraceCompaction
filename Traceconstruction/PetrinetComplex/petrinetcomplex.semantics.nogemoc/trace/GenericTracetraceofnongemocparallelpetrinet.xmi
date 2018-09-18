@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace">
+  <basestate/>
+  <steptype StepName="Run"/>
+  <steptype StepName="fire"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="model/complexpetrinetsample.xmi#/"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="model/complexpetrinetsample.xmi#//@transition.0"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="model/complexpetrinetsample.xmi#//@transition.1"/>
+  </value>
+  <step xsi:type="trace:NormalStep" state="//@basestate.0" parameterset="//@parametersets.2" steptype="Run">
+    <children xsi:type="trace:NormalStep" state="//@basestate.0" parameterset="//@parametersets.0" steptype="fire"/>
+    <children xsi:type="trace:NormalStep" state="//@basestate.0" parameterset="//@parametersets.1" steptype="fire"/>
+  </step>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.1"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.2"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.0"/>
+  <parameterValues values="//@value.0"/>
+  <parameterValues values="//@value.1"/>
+  <parameterValues values="//@value.2"/>
+</trace:Trace>

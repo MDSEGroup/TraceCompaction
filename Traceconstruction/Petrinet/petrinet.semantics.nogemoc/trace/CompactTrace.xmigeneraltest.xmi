@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace" rootStep="//@stepspec.0">
+  <steptype StepName="A"/>
+  <steptype StepName="B"/>
+  <steptype StepName="C"/>
+  <steptype StepName="D"/>
+  <steptype StepName="E"/>
+  <steptype StepName="F"/>
+  <steptype StepName="G"/>
+  <steptype StepName="H"/>
+  <steptype StepName="I"/>
+  <steptype StepName="J"/>
+  <steptype StepName="K"/>
+  <steptype StepName="L"/>
+  <steptype StepName="M"/>
+  <stepspec xsi:type="trace:BigStep" steptype="A">
+    <children xsi:type="trace:BigStep" steptype="B">
+      <children xsi:type="trace:SmallStep" steptype="E"/>
+      <children xsi:type="trace:SmallStep" steptype="F"/>
+      <children xsi:type="trace:SmallStep" steptype="G"/>
+    </children>
+    <children xsi:type="trace:BigStep" steptype="C">
+      <children xsi:type="trace:SmallStep" steptype="H"/>
+    </children>
+    <children xsi:type="trace:BigStep" steptype="D">
+      <children xsi:type="trace:BigStep" steptype="I">
+        <children xsi:type="trace:SmallStep" steptype="K"/>
+        <children xsi:type="trace:SmallStep" steptype="L"/>
+        <children xsi:type="trace:SmallStep" steptype="M"/>
+      </children>
+      <children xsi:type="trace:SmallStep" steptype="J"/>
+    </children>
+  </stepspec>
+</trace:Trace>

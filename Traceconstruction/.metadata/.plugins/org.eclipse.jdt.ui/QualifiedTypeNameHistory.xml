@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.util.Objects"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+<fullyQualifiedTypeName name="trace.TracePackage"/>
+<fullyQualifiedTypeName name="trace.BigStep"/>
+<fullyQualifiedTypeName name="trace.SmallStep"/>
+<fullyQualifiedTypeName name="trace.aspects.StepAspect"/>
+<fullyQualifiedTypeName name="trace.StepSpec"/>
+<fullyQualifiedTypeName name="tracemetamodel.xtend.stepOperation"/>
+<fullyQualifiedTypeName name="trace.LeafParameterSet"/>
+<fullyQualifiedTypeName name="trace.ParameterSet"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="trace.CompositParameterSet"/>
+<fullyQualifiedTypeName name="trace.StepPattern"/>
+<fullyQualifiedTypeName name="trace.aspects.RepeatingStepAspect"/>
+<fullyQualifiedTypeName name="petrinet.Transition"/>
+<fullyQualifiedTypeName name="petrinet.Place"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="petrinet.Net"/>
+<fullyQualifiedTypeName name="trace.Step"/>
+<fullyQualifiedTypeName name="petrinet.PetrinetPackage"/>
+<fullyQualifiedTypeName name="trace.NormalStep"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="trace.Trace"/>
+<fullyQualifiedTypeName name="trace.ObjectState"/>
+<fullyQualifiedTypeName name="trace.Value"/>
+<fullyQualifiedTypeName name="trace.LeafObjectState"/>
+<fullyQualifiedTypeName name="ca.pfv.spmf.algorithms.frequentpatterns.lcm.myAlgoLCMFreq"/>
+<fullyQualifiedTypeName name="org.eclipse.emf.common.util.BasicEList"/>
+<fullyQualifiedTypeName name="org.eclipse.emf.ecore.EObject"/>
+<fullyQualifiedTypeName name="org.eclipse.emf.ecore.EStructuralFeature"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="org.eclipse.emf.common.util.EList"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="trace.ParameterList"/>
+<fullyQualifiedTypeName name="trace.LeafParameterList"/>
+<fullyQualifiedTypeName name="trace.ParameterValue"/>
+<fullyQualifiedTypeName name="trace.TraceFactory"/>
+</qualifiedTypeNameHistroy>

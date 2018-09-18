@@ -1,0 +1,14 @@
+package petrinet.xdsml
+
+import org.sample.myk3project.MyNetAspect
+import org.sample.myk3project.MyPlaceAspect
+import org.sample.myk3project.MyTransitionAspect
+
+language Petrinet {
+	syntax "platform:/resource/petrinet.model/model/domain model.ecore"
+	
+	with MyNetAspect
+	with MyPlaceAspect
+	with MyTransitionAspect
+	exactType PetrinetMT
+}

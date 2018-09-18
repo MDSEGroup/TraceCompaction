@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1478282466657_2" label="petrinet" name="petrinet">
+<item elementID="=petrinet.abstractsyntax.edit" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=petrinet.abstractsyntax.tests" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=petrinet.xdsml" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/petrinet.semantics.nogemoc" type="4"/>
+<item elementID="=petrinet.abstractsyntax.editor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=petrinet.semantics.gemoc" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=petrinet.abstractsyntax" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1478282478114_3" label="tracemetamodel" name="tracemetamodel">
+<item elementID="=trace.metamodel" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=trace.metamodel.edit" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=trace.metamodel.tests" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=trace.metamodel.editor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1478282493394_4" label="tracemanagement" name="tracemanagement">
+<item elementID="=trace_decompactor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=trace.metamodel.semantics" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=trace_constructor.addon" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=trace_constructor.notaddon" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1478681003414_5" label="petrinetcomplex" name="petrinetcomplex">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/petrinetcomplex.semantics.nogemoc" type="4"/>
+<item elementID="=petrinetcomplex.abstractsyntax.edit" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=petrinetcomplex.abstractsyntax.editor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=petrinetcomplex.abstractsyntax.tests" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=petrinetcomplex.abstractsyntax" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=petrinetcomplex.semantics.gemoc" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=petrinetcomplex.xdsml" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1478854735084_6" label="TFSM" name="TFSM">
+<item elementID="=org.gemoc.sample.tfsm.sequential.xtfsm.trace" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.gemoc.sample.tfsm.sequential.xtfsm.edit" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.gemoc.sample.tfsm.sequential" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.gemoc.sample.tfsm.sequential.xtfsm" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.gemoc.sample.tfsm.sequential.xtfsm.editor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.gemoc.sample.tfsm.sequential.k3dsa" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.gemoc.sample.tfsm.sequential.single_traffic_light_sample" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.gemoc.sample.tfsm.sequential.model" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.gemoc.sample.tfsm.sequential.model.edit" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.gemoc.sample.tfsm.sequential.xtfsm.design" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1480071104572_7" label="IML" name="IML">
+<item elementID="=org.modelexecution.xmof.examples.iml.sequential.k3.dynamic" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.examples.iml" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.examples.iml.design" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.examples.iml.sequential.xdsml" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.examples.iml.sequentialiml" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.examples.iml.java.dynamic" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1480071142604_8" label="fUML" name="fUML">
+<item elementID="=org.modelexecution.xmof.examples.fuml.xdsml" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.examples.fuml.xmof.dynamic" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1480071204895_9" label="SPMF" name="SPMF">
+<item elementID="=SPMFpattern" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1480344434394_10" label="xMOF virtual machine" name="xMOF virtual machine">
+<item elementID="=org.modelexecution.xmof.diagram" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.fuml.convert.xmof" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.modeldebugger.edit" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.standardlibrary" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.fuml.convert" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.editor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.configuration" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.vm" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.fuml.convert.fuml.gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.fuml" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.modeldebugger" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.modeldebugger.editor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.states" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.edit" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.fumldebug" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1480426975868_11" label="xMOF GEMOC Engine" name="xMOF GEMOC Engine">
+<item elementID="=org.modelexecution.xmof.gemoc.engine" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.gemoc.codegen.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.modelexecution.xmof.gemoc.codegen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1489950602070_12" label="fUMLTanja" name="fUMLTanja">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.modelexecution.xmof.examples.fuml.trace" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.modelexecution.xmof.examples.fuml.fumlfewsteps.trace" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.modelexecution.xmof.examples.petrinet.trace" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.modelexecution.xmof.examples.fuml.models" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1489950708414_13" label="Tanjabenchmark" name="Tanjabenchmark">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.modelexecution.xmof.gemoc.generictraceconstructor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.modelexecution.xmof.gemoc.tracebenchmark.api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.modelexecution.xmof.gemoc.tracebenchmark" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.modelexecution.xmof.gemoc.diffbenchmark" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1474985879056_0" label="Window Working Set" name="Aggregate for window 1474985879054"/>
+</workingSetManager>

@@ -1,0 +1,75 @@
+package petrinet.xdsml.petrinet.aspects;
+
+import com.google.common.base.Objects;
+import fr.inria.diverse.k3.al.annotationprocessor.Aspect;
+import fr.inria.diverse.k3.al.annotationprocessor.InitializeModel;
+import fr.inria.diverse.k3.al.annotationprocessor.Main;
+import fr.inria.diverse.k3.al.annotationprocessor.Step;
+import java.util.List;
+import org.eclipse.emf.common.util.EList;
+import org.eclipse.xtext.xbase.lib.Functions.Function1;
+import org.eclipse.xtext.xbase.lib.IterableExtensions;
+import petrinet.xdsml.petrinet.aspects.MyNetAspectNetAspectProperties;
+import petrinet.xdsml.petrinet.aspects.MyTransitionAspect;
+//import petrinet.xdsml.petrinet.aspects.TraceConstructor;
+import petrinet.traceconstruction.TraceConstructor
+import petrinet.xdsml.petrinet.petrinet.Net;
+import petrinet.xdsml.petrinet.petrinet.Transition;
+
+@Aspect(className = Net.class)
+@SuppressWarnings("all")
+public class MyNetAspect {
+  @InitializeModel
+  public static void initialize(final Net _self, final List<String> args) {
+    final petrinet.xdsml.petrinet.aspects.MyNetAspectNetAspectProperties _self_ = petrinet.xdsml.petrinet.aspects.MyNetAspectNetAspectContext.getSelf(_self);
+    _privk3_initialize(_self_, _self,args);;
+  }
+  
+  @Main
+  @Step
+  public static void run(final Net _self) {
+    final petrinet.xdsml.petrinet.aspects.MyNetAspectNetAspectProperties _self_ = petrinet.xdsml.petrinet.aspects.MyNetAspectNetAspectContext.getSelf(_self);
+    fr.inria.diverse.k3.al.annotationprocessor.stepmanager.StepCommand command = new fr.inria.diverse.k3.al.annotationprocessor.stepmanager.StepCommand() {
+    	@Override
+    	public void execute() {
+    		_privk3_run(_self_, _self);
+    	}
+    };
+    fr.inria.diverse.k3.al.annotationprocessor.stepmanager.IStepManager manager = fr.inria.diverse.k3.al.annotationprocessor.stepmanager.StepManagerRegistry.getInstance().findStepManager(_self);
+    if (manager != null) {
+    	manager.executeStep(_self,command,"Net","run");
+    } else {
+    	command.execute();
+    }
+    ;;
+  }
+  
+  protected static void _privk3_initialize(final MyNetAspectNetAspectProperties _self_, final Net _self, final List<String> args) {
+  }
+  
+  protected static void _privk3_run(final MyNetAspectNetAspectProperties _self_, final Net _self) {
+    final TraceConstructor traceConstructor = new TraceConstructor();
+    traceConstructor.initTrace(_self);
+    traceConstructor.beforeRun(_self);
+    EList<Transition> _transition = _self.getTransition();
+    final Function1<Transition, Boolean> _function = (Transition t) -> {
+      return Boolean.valueOf(MyTransitionAspect.canbefired(t));
+    };
+    Transition nextTransition = IterableExtensions.<Transition>findFirst(_transition, _function);
+    while ((!Objects.equal(nextTransition, null))) {
+      {
+        traceConstructor.beforeFire(_self, nextTransition);
+        MyTransitionAspect.fire(nextTransition);
+        EList<Transition> _transition_1 = _self.getTransition();
+        final Function1<Transition, Boolean> _function_1 = (Transition t) -> {
+          return Boolean.valueOf(MyTransitionAspect.canbefired(t));
+        };
+        Transition _findFirst = IterableExtensions.<Transition>findFirst(_transition_1, _function_1);
+        nextTransition = _findFirst;
+        traceConstructor.afterFire(_self, nextTransition);
+      }
+    }
+    traceConstructor.afterRun(_self);
+    traceConstructor.finishTrace(_self);
+  }
+}

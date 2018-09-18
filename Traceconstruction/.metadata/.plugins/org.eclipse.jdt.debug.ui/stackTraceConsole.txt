@@ -1,0 +1,14 @@
+java.lang.NullPointerException
+	at org.modelexecution.xmof.gemoc.engine.internal.XMOFBasedModelLoader.loadInputModelElements(XMOFBasedModelLoader.java:118)
+	at org.modelexecution.xmof.gemoc.engine.internal.XMOFBasedModelLoader.loadXMOFBasedModel(XMOFBasedModelLoader.java:60)
+	at org.modelexecution.xmof.gemoc.engine.XMOFExecutionEngine.prepareEntryPoint(XMOFExecutionEngine.java:71)
+	at org.gemoc.executionframework.engine.core.AbstractSequentialExecutionEngine.performInitialize(AbstractSequentialExecutionEngine.java:54)
+	at org.gemoc.executionframework.engine.core.AbstractExecutionEngine.initialize(AbstractExecutionEngine.java:72)
+	at org.modelexecution.xmof.gemoc.engine.ui.launcher.Launcher.createExecutionEngine(Launcher.java:46)
+	at org.gemoc.executionframework.engine.ui.launcher.AbstractSequentialGemocLauncher.launch(AbstractSequentialGemocLauncher.java:101)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+	Paste stack traces into this console and follow hyperlinks to source code.

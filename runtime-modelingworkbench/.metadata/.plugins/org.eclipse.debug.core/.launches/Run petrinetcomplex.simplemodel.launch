@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.gemoc.execution.sequential.javaengine.ui.launcher">
+<booleanAttribute key="CompactTraceConstructor" value="true"/>
+<intAttribute key="GEMOC_ANIMATE_DELAY" value="0"/>
+<booleanAttribute key="GEMOC_LAUNCH_BREAK_START" value="false"/>
+<stringAttribute key="GEMOC_LAUNCH_INITIALIZATION_ARGUMENTS" value=""/>
+<stringAttribute key="GEMOC_LAUNCH_INITIALIZATION_METHOD" value="petrinetcomplex.semantics.gemoc.NetAspect.initialize"/>
+<stringAttribute key="GEMOC_LAUNCH_SELECTED_LANGUAGE" value="petrinetcomplex.xdsml.Petrinet"/>
+<stringAttribute key="LAUNCH_METHOD_ENTRY_POINT" value="public static void petrinetcomplex.semantics.gemoc.NetAspect.run(petrinet.Net)"/>
+<stringAttribute key="LAUNCH_MODEL_ENTRY_POINT" value="/"/>
+<stringAttribute key="Resource" value="/exampleproj/src/models/complexpetrinetsample.xmi"/>
+<stringAttribute key="airdResource" value=""/>
+<booleanAttribute key="tfsm MultiDimensional Trace" value="false"/>
+</launchConfiguration>

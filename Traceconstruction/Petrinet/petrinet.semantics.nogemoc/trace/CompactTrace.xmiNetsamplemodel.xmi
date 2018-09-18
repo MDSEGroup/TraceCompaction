@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace" rootStep="//@step.0">
+  <basestate newobjects="//@tracedobject.0 //@tracedobject.1 //@tracedobject.2 //@tracedobject.3">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.0"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.1" objectstate="//@objectstate.0"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.3" objectstate="//@objectstate.1"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.0"/>
+  </basestate>
+  <basestate basestate="//@basestate.1">
+    <tracedObjectsStates tracedobject="//@tracedobject.1" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.3" objectstate="//@objectstate.0"/>
+  </basestate>
+  <tracedobject>
+    <originalObject href="model/Netsamplemodel.xmi#//@place.0"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="model/Netsamplemodel.xmi#//@place.1"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="model/Netsamplemodel.xmi#//@place.2"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="model/Netsamplemodel.xmi#//@place.3"/>
+  </tracedobject>
+  <steptype StepName="Run"/>
+  <steptype StepName="fire"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="1"/>
+  <value xsi:type="trace:LiteralInteger"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.0"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.2"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.1"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.3"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="1"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.1"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.1 //@parameterValues.0"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.3 //@parameterValues.2"/>
+  <parameterValues values="//@value.2"/>
+  <parameterValues DirectionKind="OUT" values="//@value.3"/>
+  <parameterValues values="//@value.4 //@value.3"/>
+  <parameterValues DirectionKind="OUT" values="//@value.5"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.2" parameterset="//@parametersets.1" steptype="Run">
+    <children xsi:type="trace:NormalStep" state="//@basestate.1" parameterset="//@parametersets.0" steptype="fire">
+      <originalobject href="model/Netsamplemodel.xmi#//@transition.0"/>
+    </children>
+    <children xsi:type="trace:NormalStep" state="//@basestate.2" parameterset="//@parametersets.1" steptype="fire">
+      <originalobject href="model/Netsamplemodel.xmi#//@transition.1"/>
+    </children>
+  </step>
+</trace:Trace>

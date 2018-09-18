@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=
+org.eclipse.jdt.core.circularClasspath=warning
+org.eclipse.jdt.core.classpathVariable.EMF_CODEGEN=D\:/PHDCourse/Theise/Tools/gemoc_studio-win32.win32.x86/plugins/org.eclipse.emf.codegen_2.11.0.v20160208-0841.jar
+org.eclipse.jdt.core.classpathVariable.EMF_CODEGEN_ECORE=D\:/PHDCourse/Theise/Tools/gemoc_studio-win32.win32.x86/plugins/org.eclipse.emf.codegen.ecore_2.11.1.v20160208-0841.jar
+org.eclipse.jdt.core.classpathVariable.EMF_COMMON=D\:/PHDCourse/Theise/Tools/gemoc_studio-win32.win32.x86/plugins/org.eclipse.emf.common_2.11.1.v20160208-0816.jar
+org.eclipse.jdt.core.classpathVariable.EMF_ECORE=D\:/PHDCourse/Theise/Tools/gemoc_studio-win32.win32.x86/plugins/org.eclipse.emf.ecore_2.11.2.v20160208-0816.jar
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+org.eclipse.jdt.core.compiler.compliance=1.8
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.source=1.8

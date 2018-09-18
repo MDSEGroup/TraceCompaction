@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test
+Bundle-SymbolicName: trace_constructor.notaddon.test
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: com.google.guava,
+ org.eclipse.xtext.xbase.lib,
+ org.eclipse.xtend.lib,
+ org.eclipse.xtend.lib.macro,
+ trace.metamodel;bundle-version="0.1.0",
+ trace.metamodel.semantics;bundle-version="1.0.0",
+ trace_constructor.notaddon;bundle-version="1.0.0"
+

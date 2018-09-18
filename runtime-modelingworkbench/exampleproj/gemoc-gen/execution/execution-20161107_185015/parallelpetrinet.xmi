@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<petrinet:Net
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:petrinet="petrinet"
+    xsi:schemaLocation="petrinet ../../petrinet.model/model/domain%20model.ecore">
+  <place name="a"
+      tokens="4"/>
+  <place name="b"
+      tokens="4"/>
+  <place name="c"
+      tokens="2"/>
+  <place name="d"
+      tokens="2"/>
+  <place name="e"
+      tokens="1"/>
+  <place name="f"
+      tokens="5"/>
+  <place name="g"
+      tokens="2"/>
+  <place name="h"
+      tokens="2"/>
+  <transition
+      input="//@place.0"
+      output="//@place.2"
+      name="t"/>
+  <transition
+      input="//@place.0 //@place.1"
+      output="//@place.2 //@place.3 //@place.4"
+      name="u"/>
+  <transition
+      input="//@place.2"
+      output="//@place.5"
+      name="w"/>
+  <transition
+      input="//@place.2 //@place.3"
+      output="//@place.5"
+      name="x"/>
+  <transition
+      input="//@place.3 //@place.4"
+      output="//@place.6"
+      name="y"/>
+  <transition
+      input="//@place.7 //@place.6"
+      output="//@place.1"
+      name="s"/>
+  <transition
+      input="//@place.4"
+      output="//@place.7"
+      name="z"/>
+  <transition
+      input="//@place.5"
+      output="//@place.0"
+      name="v"/>
+</petrinet:Net>

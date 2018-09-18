@@ -1,0 +1,18 @@
+package petrinetcomplex.xdsml
+
+import petrinetcomplex.semantics.gemoc.TransitionAspect
+import petrinetcomplex.semantics.gemoc.PlaceAspect
+
+
+//external 
+language Petrinet {
+	syntax "platform:/resource/petrinetcomplex.abstractsyntax/model/petrinetcomplex.ecore"
+	
+	with petrinetcomplex.semantics.gemoc.TokenAspect
+	with petrinetcomplex.semantics.gemoc.PlaceAspect
+
+	with petrinetcomplex.semantics.gemoc.TransitionAspect
+	with petrinetcomplex.semantics.gemoc.NetAspect
+
+	exactType PetrinetMT
+}

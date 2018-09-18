@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace">
+  <basestate newobjects="//@tracedobject.0 //@tracedobject.1 //@tracedobject.2 //@tracedobject.3 //@tracedobject.4 //@tracedobject.5 //@tracedobject.6 //@tracedobject.7">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.0"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.1" objectstate="//@objectstate.0"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.3" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.4" objectstate="//@objectstate.2"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.3"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.6" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.7" objectstate="//@objectstate.1"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.4"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.4"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.0"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.2"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.3"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.5"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.6"/>
+  </basestate>
+  <basestate basestate="//@basestate.3">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.5"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.6"/>
+  </basestate>
+  <basestate basestate="//@basestate.2">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.5"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.7"/>
+  </basestate>
+  <basestate basestate="//@basestate.1">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.5"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.8"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.5"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.9"/>
+  </basestate>
+  <basestate basestate="//@basestate.4">
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.2"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.10"/>
+  </basestate>
+  <basestate basestate="//@basestate.4">
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.5"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.11"/>
+  </basestate>
+  <basestate basestate="//@basestate.10">
+    <tracedObjectsStates tracedobject="//@tracedobject.3" objectstate="//@objectstate.2"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.4" objectstate="//@objectstate.5"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.6" objectstate="//@objectstate.4"/>
+  </basestate>
+  <basestate basestate="//@basestate.11">
+    <tracedObjectsStates tracedobject="//@tracedobject.1" objectstate="//@objectstate.3"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.6" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.7" objectstate="//@objectstate.2"/>
+  </basestate>
+  <basestate basestate="//@basestate.11">
+    <tracedObjectsStates tracedobject="//@tracedobject.1" objectstate="//@objectstate.6"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.6" objectstate="//@objectstate.2"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.7" objectstate="//@objectstate.5"/>
+  </basestate>
+  <basestate basestate="//@basestate.13">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.2"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.10"/>
+  </basestate>
+  <basestate basestate="//@basestate.13">
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.2"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.10"/>
+  </basestate>
+  <tracedobject>
+    <originalObject href="model/parallelpetrinet.xmi#//@place.0"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="model/parallelpetrinet.xmi#//@place.1"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="model/parallelpetrinet.xmi#//@place.2"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="model/parallelpetrinet.xmi#//@place.3"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="model/parallelpetrinet.xmi#//@place.4"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="model/parallelpetrinet.xmi#//@place.5"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="model/parallelpetrinet.xmi#//@place.6"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="model/parallelpetrinet.xmi#//@place.7"/>
+  </tracedobject>
+  <steptype StepName="fire"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="4"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="2"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="1"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="5"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.0"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="3"/>
+  <value xsi:type="trace:LiteralInteger"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="6"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.2"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="7"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="8"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="9"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="10"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="11"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.3"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.4"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.7"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.6"/>
+  <value xsi:type="trace:RefValue" Tracedobject="//@tracedobject.5"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="4"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="2"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="1"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="5"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="3"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.6"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="6"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="7"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="8"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="9"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="10"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="11"/>
+  <parameterValues values="//@value.4"/>
+  <parameterValues values="//@value.8"/>
+  <parameterValues values="//@value.14 //@value.15"/>
+  <parameterValues values="//@value.16 //@value.17"/>
+  <parameterValues values="//@value.18"/>
+</trace:Trace>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;petrinet.abstractsyntax/model/Netsamplemodel.xmi&apos; to &apos;Netsamplemodelarray.xmi&apos;" description="Rename resource &apos;Netsamplemodel.xmi&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="model/Netsamplemodel.xmi" name="Netsamplemodelarray.xmi" stamp="1481205972676" updateReferences="true"/>
+</session>

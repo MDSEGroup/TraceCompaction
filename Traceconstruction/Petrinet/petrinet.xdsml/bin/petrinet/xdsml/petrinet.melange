@@ -1,0 +1,16 @@
+package petrinet.xdsml
+
+import petrinet.semantics.gemoc.TransitionAspect
+import petrinet.semantics.gemoc.NetAspect
+
+//external language Petrinet {
+ language Petrinet {
+	syntax "platform:/resource/petrinet.abstractsyntax/model/petrinet.ecore"
+
+
+    with petrinet.semantics.gemoc.TransitionAspect
+    with petrinet.semantics.gemoc.NetAspect
+	with petrinet.semantics.gemoc.PlaceAspect
+	
+	exactType PetrinetMT
+}

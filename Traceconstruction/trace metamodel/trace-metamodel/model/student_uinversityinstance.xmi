@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trace:Trace
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:trace="trace"
+    xsi:schemaLocation="trace %20compactTraceMetamodel.ecore"
+    rootStep="//@stepspec.3">
+  <basestate
+      basedStatID="BS0">
+    <tracedObjectsStates
+        tracedobject="//@tracedobject.0"
+        objectstate="//@objectstate.6"/>
+  </basestate>
+  <basestate
+      basedStatID="BS1">
+    <tracedObjectsStates
+        tracedobject="//@tracedobject.1"
+        objectstate="//@objectstate.1"/>
+  </basestate>
+  <basestate
+      basedStatID="BS2">
+    <tracedObjectsStates
+        tracedobject="//@tracedobject.1"
+        objectstate="//@objectstate.2"/>
+  </basestate>
+  <tracedobject
+      objname="university"/>
+  <tracedobject
+      objname="student1"/>
+  <steptype
+      StepName="A"/>
+  <steptype
+      StepName="A.1"/>
+  <steptype
+      StepName="A.2"/>
+  <steptype
+      StepName="call Createstudent"/>
+  <steptype
+      StepName="read self"/>
+  <steptype
+      StepName="Testscenario"/>
+  <steptype
+      StepName="add student"/>
+  <steptype
+      StepName="create student"/>
+  <steptype
+      StepName="set matriculationNumber"/>
+  <steppattern
+      StepPattID="stepppatern1"
+      stepspec="//@stepspec.0 //@stepspec.2"/>
+  <steppattern
+      StepPattID="st2"
+      stepspec="//@stepspec.0"/>
+  <steppattern
+      StepPattID="st3"/>
+  <tokenvalue
+      val="Liz"/>
+  <tokenvalue
+      val="Bill"/>
+  <tokenvalue
+      val="WU"/>
+  <tokenvalue
+      val="Wien"/>
+  <value xsi:type="trace:LiteralString"
+      LitValID="L6"
+      tokenvalue="//@tokenvalue.2"/>
+  <value xsi:type="trace:LiteralString"
+      LitValID="L5"
+      tokenvalue="//@tokenvalue.2"/>
+  <value xsi:type="trace:RefValue"
+      Tracedobject="//@tracedobject.0"
+      RefValId="r1"/>
+  <value xsi:type="trace:RefValue"
+      Tracedobject="//@tracedobject.1"
+      RefValId="r2"/>
+  <value xsi:type="trace:LiteralString"
+      LitValID="L1"
+      tokenvalue="//@tokenvalue.0"/>
+  <value xsi:type="trace:LiteralString"
+      LitValID="L2"
+      tokenvalue="//@tokenvalue.3"/>
+  <value xsi:type="trace:LiteralInteger"
+      LitValID="L3"/>
+  <value xsi:type="trace:LiteralInteger"
+      LitValID="L7"
+      intvalue="922201111"/>
+  <value xsi:type="trace:LiteralBoolean"
+      LitValID="L4"/>
+  <stepspec
+      xsi:type="trace:RepeatingSmallStep"
+      RepeatingSmallStepId="r2"/>
+  <stepspec
+      xsi:type="trace:RepeatingSmallStep"
+      RepeatingSmallStepId="r1"/>
+  <stepspec
+      xsi:type="trace:RepeatingBigStep"/>
+  <stepspec
+      xsi:type="trace:BigStep"
+      steptype="//@steptype.5">
+    <children
+        xsi:type="trace:SmallStep"
+        steptype="//@steptype.4"
+        state="//@basestate.2"/>
+    <children
+        xsi:type="trace:BigStep"
+        steptype="//@steptype.3">
+      <children
+          xsi:type="trace:SmallStep"
+          steptype="//@steptype.7"
+          state="//@basestate.1"/>
+      <children
+          xsi:type="trace:SmallStep"
+          steptype="//@steptype.8"
+          state="//@basestate.2"/>
+    </children>
+    <children
+        xsi:type="trace:SmallStep"
+        steptype="//@steptype.6"
+        state="//@basestate.2"/>
+    <children
+        xsi:type="trace:BigStep"
+        steptype="//@steptype.0">
+      <children
+          xsi:type="trace:SmallStep"
+          steptype="//@steptype.1"/>
+      <children
+          xsi:type="trace:BigStep"
+          steptype="//@steptype.0">
+        <children
+            xsi:type="trace:SmallStep"
+            steptype="//@steptype.2"/>
+        <children
+            xsi:type="trace:SmallStep"
+            steptype="//@steptype.1"/>
+      </children>
+    </children>
+    <children
+        xsi:type="trace:PatternOcurrence"
+        pattern="//@steppattern.1">
+      <stepdata
+          states="//@basestate.0"
+          StepdataID=""/>
+    </children>
+  </stepspec>
+  <stepspec
+      xsi:type="trace:BigStep"/>
+  <objectstate
+      xsi:type="trace:LeafObjectState"
+      objID="U1"
+      value="//@value.2 //@value.5"/>
+  <objectstate
+      xsi:type="trace:CompositeObjectState"
+      objID="S1"
+      objectstates="//@objectstate.3 //@objectstate.5"/>
+  <objectstate
+      xsi:type="trace:CompositeObjectState"
+      objID="S2"
+      objectstates="//@objectstate.3 //@objectstate.4"/>
+  <objectstate
+      xsi:type="trace:LeafObjectState"
+      objID="S1.1"
+      value="//@value.4 //@value.5"/>
+  <objectstate
+      xsi:type="trace:LeafObjectState"
+      objID="S2.1"
+      value="//@value.7 //@value.8"/>
+  <objectstate
+      xsi:type="trace:LeafObjectState"
+      objID="S1.2"
+      value="//@value.6 //@value.8"/>
+  <objectstate
+      xsi:type="trace:LeafObjectState"
+      objID="U0"
+      value="//@value.5 //@value.0"/>
+  <objectstate
+      xsi:type="trace:LeafObjectState"/>
+</trace:Trace>

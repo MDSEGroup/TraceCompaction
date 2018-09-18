@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Gemoc
+Bundle-SymbolicName: petrinet.semantics.gemoc
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: petrinet.semantics.gemoc.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ com.google.guava,
+ org.eclipse.xtext.xbase.lib,
+ org.eclipse.xtend.lib,
+ org.eclipse.xtend.lib.macro,
+ fr.inria.diverse.k3.al.annotationprocessor.plugin;bundle-version="3.2.0",
+ petrinet.abstractsyntax;bundle-version="0.1.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Export-Package: petrinet.semantics.gemoc
+

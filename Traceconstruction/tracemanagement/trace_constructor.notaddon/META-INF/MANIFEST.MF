@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Notaddon
+Bundle-SymbolicName: trace_constructor.notaddon
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: trace_constructor.notaddon.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ com.google.guava,
+ org.eclipse.xtext.xbase.lib,
+ org.eclipse.xtend.lib,
+ org.eclipse.xtend.lib.macro,
+ trace.metamodel;bundle-version="0.1.0",
+ trace.metamodel.semantics;bundle-version="1.0.0",
+ org.modelexecution.xmof;bundle-version="1.0.0",
+ trace_decompactor;bundle-version="1.0.0",
+ SPMFpattern;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Export-Package: trace_constructor.notaddon
+

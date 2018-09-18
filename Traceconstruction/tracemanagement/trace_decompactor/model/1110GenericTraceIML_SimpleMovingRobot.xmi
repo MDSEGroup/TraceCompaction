@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace">
+  <state newobjects="//@transientobject.0 //@transientobject.1 //@transientobject.2 //@transientobject.3 //@transientobject.4 //@transientobject.5 //@transientobject.6 //@transientobject.7 //@transientobject.8 //@transientobject.9 //@transientobject.10 //@transientobject.11 //@transientobject.12">
+    <transientObjectsStates transientobject="//@transientobject.0" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.1" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.2" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.3" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.4" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.5" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.6" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.7" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.8" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.9" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.10" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.11" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.12" objectstate="//@objectstate.0"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.0" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.13" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.14" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.1" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.7" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.8" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.2" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.9" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.10" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.14" objectstate="//@objectstate.0"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.13" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.15" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.3" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.15" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.16" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.4" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.17" objectstate="//@objectstate.1"/>
+    <transientObjectsStates transientobject="//@transientobject.16" objectstate="//@objectstate.0"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.18" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.5" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.11" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.12" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.18" objectstate="//@objectstate.0"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.17" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.19" objectstate="//@objectstate.1"/>
+  </state>
+  <state basestate="//@state.0">
+    <transientObjectsStates transientobject="//@transientobject.6" objectstate="//@objectstate.1"/>
+  </state>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.0"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.1"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.2"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.3"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.4"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.5"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.6"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.12"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.13"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.14"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.15"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.16"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.17"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.7"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.18"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.8"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.9"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.19"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.10"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.11"/>
+  </transientobject>
+  <steptype stepName="iml.Header"/>
+  <steptype stepName="iml.State"/>
+  <steptype stepName="ImplicitStep"/>
+  <steptype stepName="iml.ConnectionPoint"/>
+  <steptype stepName="iml.Activity"/>
+  <steppattern repeatingstep="//@repeatingstep.0"/>
+  <steppattern repeatingstep="//@repeatingstep.1"/>
+  <value xsi:type="trace:LiteralBoolean">
+    <boolvalue>false</boolvalue>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#/"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.0"/>
+  </value>
+  <value xsi:type="trace:LiteralBoolean">
+    <boolvalue>true</boolvalue>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.7"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.18"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.1"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.12"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.13"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.2"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.14"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.15"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.8"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.3"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.9"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.4"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.19"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.10"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.5"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.16"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.17"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.11"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.6"/>
+  </value>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[true]"/>
+  <repeatingstep steptype="//@steptype.1"/>
+  <repeatingstep steptype="//@steptype.2"/>
+  <step xsi:type="trace:NormalStep" state="//@state.22" parameterlist="//@parameterlist.20" steptype="//@steptype.0">
+    <children xsi:type="trace:NormalStep" state="//@state.1" parameterlist="//@parameterlist.0" steptype="//@steptype.1">
+      <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.0" repet="2">
+        <stepdata states="//@state.1 //@state.1" step="//@repeatingstep.0" parameterlists="//@parameterlist.0"/>
+      </children>
+    </children>
+    <children xsi:type="trace:NormalStep" state="//@state.2" steptype="//@steptype.2"/>
+    <children xsi:type="trace:NormalStep" state="//@state.10" parameterlist="//@parameterlist.8" steptype="//@steptype.3">
+      <children xsi:type="trace:NormalStep" state="//@state.0" parameterlist="//@parameterlist.0" steptype="//@steptype.1"/>
+      <children xsi:type="trace:NormalStep" state="//@state.3" steptype="//@steptype.2"/>
+      <children xsi:type="trace:NormalStep" state="//@state.9" parameterlist="//@parameterlist.7" steptype="//@steptype.3">
+        <children xsi:type="trace:NormalStep" state="//@state.6" parameterlist="//@parameterlist.3" steptype="//@steptype.1">
+          <children xsi:type="trace:NormalStep" state="//@state.4" steptype="//@steptype.2"/>
+          <children xsi:type="trace:NormalStep" state="//@state.0" parameterlist="//@parameterlist.3" steptype="//@steptype.1">
+            <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.1" repet="2">
+              <stepdata states="//@state.5 //@state.5" step="//@repeatingstep.1" parameterlists="//@parameterlist.1"/>
+            </children>
+            <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.1" repet="2">
+              <stepdata states="//@state.6 //@state.6" step="//@repeatingstep.1" parameterlists="//@parameterlist.2"/>
+            </children>
+          </children>
+        </children>
+        <children xsi:type="trace:NormalStep" state="//@state.9" parameterlist="//@parameterlist.6" steptype="//@steptype.1">
+          <children xsi:type="trace:NormalStep" state="//@state.7" steptype="//@steptype.2"/>
+          <children xsi:type="trace:NormalStep" state="//@state.0" parameterlist="//@parameterlist.6" steptype="//@steptype.1">
+            <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.1" repet="2">
+              <stepdata states="//@state.8 //@state.8" step="//@repeatingstep.1" parameterlists="//@parameterlist.4"/>
+            </children>
+            <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.1" repet="2">
+              <stepdata states="//@state.9 //@state.9" step="//@repeatingstep.1" parameterlists="//@parameterlist.5"/>
+            </children>
+          </children>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="trace:NormalStep" state="//@state.11" steptype="//@steptype.2"/>
+    <children xsi:type="trace:NormalStep" state="//@state.12" parameterlist="//@parameterlist.10" steptype="//@steptype.3">
+      <children xsi:type="trace:NormalStep" state="//@state.0" parameterlist="//@parameterlist.3" steptype="//@steptype.1"/>
+      <children xsi:type="trace:NormalStep" state="//@state.12" parameterlist="//@parameterlist.9" steptype="//@steptype.1">
+        <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.0" repet="2">
+          <stepdata states="//@state.12 //@state.12" step="//@repeatingstep.0" parameterlists="//@parameterlist.9"/>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="trace:NormalStep" state="//@state.13" steptype="//@steptype.2"/>
+    <children xsi:type="trace:NormalStep" state="//@state.14" parameterlist="//@parameterlist.12" steptype="//@steptype.3">
+      <children xsi:type="trace:NormalStep" state="//@state.0" parameterlist="//@parameterlist.6" steptype="//@steptype.1"/>
+      <children xsi:type="trace:NormalStep" state="//@state.14" parameterlist="//@parameterlist.11" steptype="//@steptype.1">
+        <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.0" repet="2">
+          <stepdata states="//@state.14 //@state.14" step="//@repeatingstep.0" parameterlists="//@parameterlist.11"/>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="trace:NormalStep" state="//@state.15" steptype="//@steptype.2"/>
+    <children xsi:type="trace:NormalStep" state="//@state.20" parameterlist="//@parameterlist.17" steptype="//@steptype.3">
+      <children xsi:type="trace:NormalStep" state="//@state.0" parameterlist="//@parameterlist.9" steptype="//@steptype.1"/>
+      <children xsi:type="trace:NormalStep" state="//@state.0" parameterlist="//@parameterlist.11" steptype="//@steptype.1"/>
+      <children xsi:type="trace:NormalStep" state="//@state.16" steptype="//@steptype.2"/>
+      <children xsi:type="trace:NormalStep" state="//@state.19" parameterlist="//@parameterlist.16" steptype="//@steptype.3">
+        <children xsi:type="trace:NormalStep" state="//@state.19" parameterlist="//@parameterlist.15" steptype="//@steptype.1">
+          <children xsi:type="trace:NormalStep" state="//@state.17" steptype="//@steptype.2"/>
+          <children xsi:type="trace:NormalStep" state="//@state.0" parameterlist="//@parameterlist.15" steptype="//@steptype.1">
+            <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.1" repet="2">
+              <stepdata states="//@state.18 //@state.18" step="//@repeatingstep.1" parameterlists="//@parameterlist.13"/>
+            </children>
+            <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.1" repet="2">
+              <stepdata states="//@state.19 //@state.19" step="//@repeatingstep.1" parameterlists="//@parameterlist.14"/>
+            </children>
+          </children>
+        </children>
+      </children>
+    </children>
+    <children xsi:type="trace:NormalStep" state="//@state.21" steptype="//@steptype.2"/>
+    <children xsi:type="trace:NormalStep" state="//@state.22" parameterlist="//@parameterlist.19" steptype="//@steptype.3">
+      <children xsi:type="trace:NormalStep" state="//@state.0" parameterlist="//@parameterlist.15" steptype="//@steptype.1"/>
+      <children xsi:type="trace:NormalStep" state="//@state.22" parameterlist="//@parameterlist.18" steptype="//@steptype.1">
+        <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.0" repet="2">
+          <stepdata states="//@state.22 //@state.22" step="//@repeatingstep.0" parameterlists="//@parameterlist.18"/>
+        </children>
+      </children>
+    </children>
+  </step>
+  <parameterValues values="//@value.1"/>
+  <parameterValues values="//@value.2"/>
+  <parameterValues values="//@value.4"/>
+  <parameterValues values="//@value.5"/>
+  <parameterValues values="//@value.6"/>
+  <parameterValues values="//@value.7"/>
+  <parameterValues values="//@value.8"/>
+  <parameterValues values="//@value.9"/>
+  <parameterValues values="//@value.10"/>
+  <parameterValues values="//@value.11"/>
+  <parameterValues values="//@value.12"/>
+  <parameterValues values="//@value.13"/>
+  <parameterValues values="//@value.14"/>
+  <parameterValues values="//@value.15"/>
+  <parameterValues values="//@value.16"/>
+  <parameterValues values="//@value.17"/>
+  <parameterValues values="//@value.18"/>
+  <parameterValues values="//@value.19"/>
+  <parameterValues values="//@value.20"/>
+  <parameterValues values="//@value.21"/>
+  <parameterValues values="//@value.22"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.1"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.5"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.6"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.4"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.8"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.9"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.7"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.3"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.2"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.11"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.10"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.13"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.12"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.17"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.18"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.16"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.15"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.14"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.20"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.19"/>
+  <parameterlist xsi:type="trace:LeafParameterList" parametervalue="//@parameterValues.0"/>
+</trace:Trace>

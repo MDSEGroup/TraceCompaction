@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/petrinetcomplex.abstractsyntax/src" modelPluginID="petrinetcomplex.abstractsyntax"
+    modelName="Petrinetcomplex" rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container"
+    importerID="org.eclipse.emf.importer.ecore" complianceLevel="8.0" suppressGenModelAnnotations="false"
+    copyrightFields="false" operationReflection="true" importOrganizing="true">
+  <foreignModel>model/petrinetcomplex.ecore</foreignModel>
+  <genPackages prefix="Petrinet" disposableProviderFactory="true" ecorePackage="petrinetcomplex.ecore#/">
+    <genClasses ecoreClass="petrinetcomplex.ecore#//Net">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference petrinetcomplex.ecore#//Net/place"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference petrinetcomplex.ecore#//Net/transition"/>
+    </genClasses>
+    <genClasses ecoreClass="petrinetcomplex.ecore#//Place">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute petrinetcomplex.ecore#//Place/name"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference petrinetcomplex.ecore#//Place/tokens"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute petrinetcomplex.ecore#//Place/initialTokens"/>
+    </genClasses>
+    <genClasses ecoreClass="petrinetcomplex.ecore#//Transition">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference petrinetcomplex.ecore#//Transition/input"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference petrinetcomplex.ecore#//Transition/output"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute petrinetcomplex.ecore#//Transition/name"/>
+    </genClasses>
+    <genClasses ecoreClass="petrinetcomplex.ecore#//Token"/>
+  </genPackages>
+</genmodel:GenModel>

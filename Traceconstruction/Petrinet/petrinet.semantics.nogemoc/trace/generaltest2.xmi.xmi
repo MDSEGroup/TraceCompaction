@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace" rootStep="//@stepspec.0">
+  <basestate/>
+  <basestate/>
+  <basestate/>
+  <steptype StepName="A"/>
+  <steptype StepName="B"/>
+  <steptype StepName="C"/>
+  <steptype StepName="F"/>
+  <steptype StepName="M"/>
+  <steptype StepName="L"/>
+  <steptype StepName="N"/>
+  <steppattern repeatingstep="//@repeatingstep.0"/>
+  <steppattern repeatingstep="//@repeatingstep.1"/>
+  <stepspec xsi:type="trace:BigStep" steptype="A" state="//@basestate.1" parameterset="//@parametersets.0">
+    <children xsi:type="trace:BigStep" steptype="B" state="//@basestate.0" parameterset="//@parametersets.1">
+      <children xsi:type="trace:BigStep" steptype="F" state="//@basestate.2" parameterset="//@parametersets.0">
+        <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.0" repet="4">
+          <stepdata states="//@basestate.0 //@basestate.1 //@basestate.2 //@basestate.0" step="//@repeatingstep.0" parameterSets="//@parametersets.0 //@parametersets.2 //@parametersets.0 //@parametersets.3"/>
+        </children>
+        <children xsi:type="trace:SmallStep" steptype="M" state="//@basestate.2" parameterset="//@parametersets.3"/>
+      </children>
+      <children xsi:type="trace:SmallStep" steptype="A" state="//@basestate.2" parameterset="//@parametersets.2"/>
+    </children>
+    <children xsi:type="trace:BigStep" steptype="C" state="//@basestate.1" parameterset="//@parametersets.0">
+      <children xsi:type="trace:PatternOcurrence" pattern="//@steppattern.1" repet="3">
+        <stepdata states="//@basestate.2 //@basestate.1 //@basestate.0" step="//@repeatingstep.1/@children.0" parameterSets="//@parametersets.3 //@parametersets.2 //@parametersets.0"/>
+        <stepdata states="//@basestate.2 //@basestate.0 //@basestate.1" step="//@repeatingstep.1" parameterSets="//@parametersets.3 //@parametersets.0 //@parametersets.2"/>
+      </children>
+    </children>
+  </stepspec>
+  <repeatingstep xsi:type="trace:RepeatingSmallStep" steptype="C"/>
+  <repeatingstep xsi:type="trace:RepeatingBigStep" steptype="L">
+    <children xsi:type="trace:RepeatingSmallStep" steptype="N"/>
+  </repeatingstep>
+  <parametersets xsi:type="trace:LeafParameterSet"/>
+  <parametersets xsi:type="trace:CompositParameterSet" parametersets="//@parametersets.0 //@parametersets.2"/>
+  <parametersets xsi:type="trace:LeafParameterSet"/>
+  <parametersets xsi:type="trace:CompositParameterSet"/>
+</trace:Trace>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trace:Trace
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:trace="trace"
+    xsi:schemaLocation="trace compactTraceMetamodel.ecore">
+  <value xsi:type="trace:LiteralInteger">
+    <intvalue>1</intvalue>
+    <intvalue>2</intvalue>
+    <intvalue>5</intvalue>
+  </value>
+</trace:Trace>

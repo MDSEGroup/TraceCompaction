@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Memoryhelper
+Bundle-SymbolicName: benchmark
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.mat.api;bundle-version="1.6.1",
+ org.eclipse.mat.parser;bundle-version="1.6.1",
+ org.eclipse.mat.hprof;bundle-version="1.6.1",
+ org.eclipse.mat.jdt;bundle-version="1.6.1"
+Export-Package: memoryhelpers

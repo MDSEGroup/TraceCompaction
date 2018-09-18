@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: petrinet.xdsml.petrinet
+Bundle-SymbolicName: petrinet.xdsml.petrinet;singleton:=true
+Bundle-Version: 0.1.0
+Require-Bundle: org.eclipse.emf.ecore,
+  fr.inria.diverse.k3.al.annotationprocessor.plugin,
+  org.eclipse.xtext.xbase.lib
+Export-Package: petrinet.xdsml.petrinet.aspects
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+

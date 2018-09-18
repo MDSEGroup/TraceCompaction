@@ -1,0 +1,14 @@
+package petrinet.xdsml
+
+import static extension petrinet.aspects.NetAspect.*
+import static extension petrinet.aspects.PlaceAspect.*
+import static extension petrinet.aspects.TransitionAspect.*
+
+language Petrinet {
+	syntax "platform:/resource/petrinet.model/model/domain model.ecore"
+	
+	with NetAspect
+	with PlaceAspect
+	with TransitionAspect
+	exactType PetrinetMT
+}

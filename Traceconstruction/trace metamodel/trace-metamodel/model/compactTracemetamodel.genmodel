@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/trace.metamodel/src" modelPluginID="trace.metamodel"
+    modelName="CompactTracemetamodel" rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container"
+    importerID="org.eclipse.emf.importer.ecore" complianceLevel="8.0" copyrightFields="false"
+    operationReflection="true" importOrganizing="true">
+  <foreignModel>compactTraceMetamodel.ecore</foreignModel>
+  <genPackages prefix="Trace" disposableProviderFactory="true" ecorePackage="compactTraceMetamodel.ecore#/">
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="compactTraceMetamodel.ecore#//ParamterKindEnum">
+      <genEnumLiterals ecoreEnumLiteral="compactTraceMetamodel.ecore#//ParamterKindEnum/IN"/>
+      <genEnumLiterals ecoreEnumLiteral="compactTraceMetamodel.ecore#//ParamterKindEnum/INOUT"/>
+      <genEnumLiterals ecoreEnumLiteral="compactTraceMetamodel.ecore#//ParamterKindEnum/OUT"/>
+      <genEnumLiterals ecoreEnumLiteral="compactTraceMetamodel.ecore#//ParamterKindEnum/RETURN"/>
+    </genEnums>
+    <genClasses image="false" ecoreClass="compactTraceMetamodel.ecore#//Value"/>
+    <genClasses image="false" ecoreClass="compactTraceMetamodel.ecore#//TransientObject"/>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//Trace">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Trace/state"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Trace/transientobject"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Trace/steptype"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Trace/steppattern"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Trace/value"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Trace/objectstate"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Trace/repeatingstep"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Trace/step"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Trace/parameterValues"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Trace/parameterlist"/>
+    </genClasses>
+    <genClasses image="false" ecoreClass="compactTraceMetamodel.ecore#//LiteralValue"/>
+    <genClasses image="false" ecoreClass="compactTraceMetamodel.ecore#//ObjectState">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//ObjectState/value"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//RefValue">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//RefValue/originalobject"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//State">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//State/newobjects"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//State/deletedobjects"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//State/basestate"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//State/transientObjectsStates"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//NormalStep">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//NormalStep/children"/>
+    </genClasses>
+    <genClasses image="false" ecoreClass="compactTraceMetamodel.ecore#//Step">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Step/state"/>
+      <genFeatures property="None" notify="false" createChild="false" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Step/parent"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//Step/parameterlist"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//StepType">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute compactTraceMetamodel.ecore#//StepType/stepName"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//PatternOcurrence">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//PatternOcurrence/pattern"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute compactTraceMetamodel.ecore#//PatternOcurrence/repet"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//PatternOcurrence/stepdata"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//StepPattern">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//StepPattern/repeatingstep"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//PatternOccurrenceStepData">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//PatternOccurrenceStepData/states"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//PatternOccurrenceStepData/step"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//PatternOccurrenceStepData/parameterlists"/>
+    </genClasses>
+    <genClasses image="false" ecoreClass="compactTraceMetamodel.ecore#//StepSpec">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//StepSpec/steptype"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//LiteralString">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute compactTraceMetamodel.ecore#//LiteralString/stringvalue"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//LiteralBoolean">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute compactTraceMetamodel.ecore#//LiteralBoolean/boolvalue"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//LiteralInteger">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute compactTraceMetamodel.ecore#//LiteralInteger/intvalue"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//LiteralFloat">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute compactTraceMetamodel.ecore#//LiteralFloat/floatvalue"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//RepeatingStep">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//RepeatingStep/children"/>
+      <genFeatures property="None" notify="false" createChild="false" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//RepeatingStep/parent"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//ParameterValue">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute compactTraceMetamodel.ecore#//ParameterValue/DirectionKind"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//ParameterValue/values"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//TransientObjectState">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//TransientObjectState/transientobject"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//TransientObjectState/objectstate"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//TransientObjectState/estructuralfeature"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//LeafObjectState"/>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//CompositeObjectState">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//CompositeObjectState/objectstates"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//StaticTransientObject">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//StaticTransientObject/originalObject"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//DynamicTransientObject">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//DynamicTransientObject/type"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//CompositParameterList">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//CompositParameterList/parameterlist"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute compactTraceMetamodel.ecore#//CompositParameterList/paramtervaluesOrder"/>
+    </genClasses>
+    <genClasses ecoreClass="compactTraceMetamodel.ecore#//LeafParameterList"/>
+    <genClasses image="false" ecoreClass="compactTraceMetamodel.ecore#//ParameterList">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference compactTraceMetamodel.ecore#//ParameterList/parametervalue"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

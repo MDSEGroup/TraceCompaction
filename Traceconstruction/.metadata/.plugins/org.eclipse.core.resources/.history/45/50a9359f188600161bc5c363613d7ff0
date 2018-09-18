@@ -1,0 +1,5 @@
+package petrinet.traceconstruction;
+
+public class TraceConstructor {
+
+}

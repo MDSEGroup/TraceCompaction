@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse version="3.4"?><plugin>
+  <extension point="org.eclipse.gemoc.gemoc_language_workbench.sequential.xdsml"/>
+  <extension point="fr.inria.diverse.melange.modeltype">
+    <modeltype id="petrinet.xdsml.PetrinetMT" uri="http://petrinet.xdsml.petrinetmt/"/>
+  </extension>
+  <extension point="fr.inria.diverse.melange.language">
+    <language aspects="Transition:petrinet.semantics.gemoc.TransitionAspect;Net:petrinet.semantics.gemoc.NetAspect;Place:petrinet.semantics.gemoc.PlaceAspect" entryPoints="petrinet.semantics.gemoc.NetAspect.run(petrinet.Net)" exactType="petrinet.xdsml.PetrinetMT" id="petrinet.xdsml.Petrinet" uri="petrinet"/>
+  </extension>
+</plugin>
