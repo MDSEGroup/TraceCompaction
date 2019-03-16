@@ -33,7 +33,7 @@ import org.eclipse.gemoc.xdsmlframework.api.engine_addon.modelchangelistener.Pot
 import org.eclipse.gemoc.xdsmlframework.api.engine_addon.modelchangelistener.RemovedObjectModelChange
 //import fr.inria.diverse.trace.gemoc.api.ITraceListener
 import trace_constructor.notaddon.GenericTraceConstructor
-import trace_constructor.notaddon.ObjectFeature
+import trace_constructor.notaddon.ObjectFeature // for storing changes of objects in states
 
 class CompactTraceConstructorAddon extends DefaultEngineAddon {
 
