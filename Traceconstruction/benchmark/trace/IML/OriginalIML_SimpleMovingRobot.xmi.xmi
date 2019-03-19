@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace">
+  <state newobjects="//@transientobject.0 //@transientobject.1 //@transientobject.2 //@transientobject.3 //@transientobject.4 //@transientobject.5 //@transientobject.6 //@transientobject.7 //@transientobject.8 //@transientobject.9 //@transientobject.10 //@transientobject.11 //@transientobject.12">
+    <transientObjectsStates transientobject="//@transientobject.3" objectstate="//@objectstate.0"/>
+    <transientObjectsStates transientobject="//@transientobject.10" objectstate="//@objectstate.1"/>
+    <transientObjectsStates transientobject="//@transientobject.1" objectstate="//@objectstate.2"/>
+    <transientObjectsStates transientobject="//@transientobject.2" objectstate="//@objectstate.3"/>
+    <transientObjectsStates transientobject="//@transientobject.7" objectstate="//@objectstate.4"/>
+    <transientObjectsStates transientobject="//@transientobject.8" objectstate="//@objectstate.5"/>
+    <transientObjectsStates transientobject="//@transientobject.0" objectstate="//@objectstate.6"/>
+    <transientObjectsStates transientobject="//@transientobject.11" objectstate="//@objectstate.7"/>
+    <transientObjectsStates transientobject="//@transientobject.5" objectstate="//@objectstate.8"/>
+    <transientObjectsStates transientobject="//@transientobject.9" objectstate="//@objectstate.9"/>
+    <transientObjectsStates transientobject="//@transientobject.12" objectstate="//@objectstate.10"/>
+    <transientObjectsStates transientobject="//@transientobject.4" objectstate="//@objectstate.11"/>
+    <transientObjectsStates transientobject="//@transientobject.6" objectstate="//@objectstate.12"/>
+  </state>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.0"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.1"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.2"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.3"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.4"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.5"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.6"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.12"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.13"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.14"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.15"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.16"/>
+  </transientobject>
+  <transientobject xsi:type="trace:StaticTransientObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/IML_SimpleMovingRobot.xmi#//@members.17"/>
+  </transientobject>
+  <value xsi:type="trace:LiteralBoolean">
+    <boolvalue>false</boolvalue>
+  </value>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="[false]"/>
+</trace:Trace>

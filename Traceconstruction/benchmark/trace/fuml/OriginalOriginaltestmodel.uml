@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trace:Trace xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:kernel="http://www.modelexecution.org/xmof/syntax/classes/mykernel" xmlns:trace="trace" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_DY6qsP64EeaCeY_zSn9Oiw">
+  <state xmi:id="_DY6qsf64EeaCeY_zSn9Oiw" newobjects="_DY6q4_64EeaCeY_zSn9Oiw _DY6q5P64EeaCeY_zSn9Oiw _DY6q5f64EeaCeY_zSn9Oiw _DY6q5v64EeaCeY_zSn9Oiw _DY6q5_64EeaCeY_zSn9Oiw _DY6q6P64EeaCeY_zSn9Oiw _DY6q6f64EeaCeY_zSn9Oiw _DY6q6v64EeaCeY_zSn9Oiw _DY6q6_64EeaCeY_zSn9Oiw _DY6q7P64EeaCeY_zSn9Oiw _DY6q7f64EeaCeY_zSn9Oiw _DY6q7v64EeaCeY_zSn9Oiw _DY6q7_64EeaCeY_zSn9Oiw _DY6q8P64EeaCeY_zSn9Oiw _DY6q8f64EeaCeY_zSn9Oiw _DY6q8v64EeaCeY_zSn9Oiw _DY6q8_64EeaCeY_zSn9Oiw _DY6q9P64EeaCeY_zSn9Oiw _DY6q9f64EeaCeY_zSn9Oiw _DY6q9v64EeaCeY_zSn9Oiw _DY6q9_64EeaCeY_zSn9Oiw _DY6q-P64EeaCeY_zSn9Oiw _DY6q-v64EeaCeY_zSn9Oiw _DY6q_P64EeaCeY_zSn9Oiw _DY6q_f64EeaCeY_zSn9Oiw _DY6q__64EeaCeY_zSn9Oiw _DY6rAP64EeaCeY_zSn9Oiw _DY6rAv64EeaCeY_zSn9Oiw _DY6rBP64EeaCeY_zSn9Oiw _DY6rBv64EeaCeY_zSn9Oiw _DY6rB_64EeaCeY_zSn9Oiw _DY6rCf64EeaCeY_zSn9Oiw _DY6rC_64EeaCeY_zSn9Oiw _DY6rDP64EeaCeY_zSn9Oiw _DY6rDv64EeaCeY_zSn9Oiw _DY6rD_64EeaCeY_zSn9Oiw _DY6rEP64EeaCeY_zSn9Oiw _DY6rEf64EeaCeY_zSn9Oiw _DY6rE_64EeaCeY_zSn9Oiw _DY6rFP64EeaCeY_zSn9Oiw _DY6rFf64EeaCeY_zSn9Oiw _DY6rFv64EeaCeY_zSn9Oiw _DY6rGP64EeaCeY_zSn9Oiw _DY6rGf64EeaCeY_zSn9Oiw _DY6rGv64EeaCeY_zSn9Oiw _DY6rG_64EeaCeY_zSn9Oiw _DY6rHf64EeaCeY_zSn9Oiw _DY6rHv64EeaCeY_zSn9Oiw _DY6rH_64EeaCeY_zSn9Oiw _DY6rIP64EeaCeY_zSn9Oiw _DY6rIf64EeaCeY_zSn9Oiw _DY6rIv64EeaCeY_zSn9Oiw _DY6rI_64EeaCeY_zSn9Oiw _DY6rJP64EeaCeY_zSn9Oiw _DY6rJf64EeaCeY_zSn9Oiw _DY6rJv64EeaCeY_zSn9Oiw _DY6rJ_64EeaCeY_zSn9Oiw _DY6rKP64EeaCeY_zSn9Oiw _DY6rKf64EeaCeY_zSn9Oiw _DY6rKv64EeaCeY_zSn9Oiw _DY6rK_64EeaCeY_zSn9Oiw _DY6rLP64EeaCeY_zSn9Oiw _DY6rLf64EeaCeY_zSn9Oiw _DY6rLv64EeaCeY_zSn9Oiw _DY6rL_64EeaCeY_zSn9Oiw _DY6rMP64EeaCeY_zSn9Oiw _DY6rMf64EeaCeY_zSn9Oiw _DY6rMv64EeaCeY_zSn9Oiw _DY6rM_64EeaCeY_zSn9Oiw _DY6rNP64EeaCeY_zSn9Oiw _DY6rNf64EeaCeY_zSn9Oiw _DY6rNv64EeaCeY_zSn9Oiw _DY6rN_64EeaCeY_zSn9Oiw _DY6rOP64EeaCeY_zSn9Oiw _DY6rOf64EeaCeY_zSn9Oiw _DY6rOv64EeaCeY_zSn9Oiw">
+    <transientObjectsStates xmi:id="_DY6qsv64EeaCeY_zSn9Oiw" transientobject="_DY6q9_64EeaCeY_zSn9Oiw" objectstate="_DY7R2_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qs_64EeaCeY_zSn9Oiw" transientobject="_DY6q9f64EeaCeY_zSn9Oiw" objectstate="_DY7R3P64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qtP64EeaCeY_zSn9Oiw" transientobject="_DY6rFP64EeaCeY_zSn9Oiw" objectstate="_DY7R3f64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qtf64EeaCeY_zSn9Oiw" transientobject="_DY6q5f64EeaCeY_zSn9Oiw" objectstate="_DY7R3v64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qtv64EeaCeY_zSn9Oiw" transientobject="_DY6rBP64EeaCeY_zSn9Oiw" objectstate="_DY7R3_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qt_64EeaCeY_zSn9Oiw" transientobject="_DY6rGf64EeaCeY_zSn9Oiw" objectstate="_DY7R4P64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6quP64EeaCeY_zSn9Oiw" transientobject="_DY6q-P64EeaCeY_zSn9Oiw" objectstate="_DY7R4f64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6quf64EeaCeY_zSn9Oiw" transientobject="_DY6q8P64EeaCeY_zSn9Oiw" objectstate="_DY7R4v64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6quv64EeaCeY_zSn9Oiw" transientobject="_DY6q8_64EeaCeY_zSn9Oiw" objectstate="_DY7R4_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qu_64EeaCeY_zSn9Oiw" transientobject="_DY6rG_64EeaCeY_zSn9Oiw" objectstate="_DY7R5P64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qvP64EeaCeY_zSn9Oiw" transientobject="_DY6q__64EeaCeY_zSn9Oiw" objectstate="_DY7R5f64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qvf64EeaCeY_zSn9Oiw" transientobject="_DY6rEv64EeaCeY_zSn9Oiw" objectstate="_DY7R5v64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qvv64EeaCeY_zSn9Oiw" transientobject="_DY6rEf64EeaCeY_zSn9Oiw" objectstate="_DY7R5_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qv_64EeaCeY_zSn9Oiw" transientobject="_DY6rHf64EeaCeY_zSn9Oiw" objectstate="_DY7R6P64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qwP64EeaCeY_zSn9Oiw" transientobject="_DY6rGv64EeaCeY_zSn9Oiw" objectstate="_DY7R6f64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qwf64EeaCeY_zSn9Oiw" transientobject="_DY6rB_64EeaCeY_zSn9Oiw" objectstate="_DY7R6v64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qwv64EeaCeY_zSn9Oiw" transientobject="_DY6q4_64EeaCeY_zSn9Oiw" objectstate="_DY7R6_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qw_64EeaCeY_zSn9Oiw" transientobject="_DY6rD_64EeaCeY_zSn9Oiw" objectstate="_DY7R7P64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qxP64EeaCeY_zSn9Oiw" transientobject="_DY6q-v64EeaCeY_zSn9Oiw" objectstate="_DY7R7f64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qxf64EeaCeY_zSn9Oiw" transientobject="_DY6rAv64EeaCeY_zSn9Oiw" objectstate="_DY7R7v64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qxv64EeaCeY_zSn9Oiw" transientobject="_DY6rFf64EeaCeY_zSn9Oiw" objectstate="_DY7R7_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qx_64EeaCeY_zSn9Oiw" transientobject="_DY6q7_64EeaCeY_zSn9Oiw" objectstate="_DY7R8P64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qyP64EeaCeY_zSn9Oiw" transientobject="_DY6rBv64EeaCeY_zSn9Oiw" objectstate="_DY7R8f64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qyf64EeaCeY_zSn9Oiw" transientobject="_DY6q9P64EeaCeY_zSn9Oiw" objectstate="_DY7R8v64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qyv64EeaCeY_zSn9Oiw" transientobject="_DY6q6f64EeaCeY_zSn9Oiw" objectstate="_DY7R8_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qy_64EeaCeY_zSn9Oiw" transientobject="_DY6q7f64EeaCeY_zSn9Oiw" objectstate="_DY7R9P64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qzP64EeaCeY_zSn9Oiw" transientobject="_DY6rCf64EeaCeY_zSn9Oiw" objectstate="_DY7R9f64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qzf64EeaCeY_zSn9Oiw" transientobject="_DY6q5P64EeaCeY_zSn9Oiw" objectstate="_DY7R9v64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qzv64EeaCeY_zSn9Oiw" transientobject="_DY6q9v64EeaCeY_zSn9Oiw" objectstate="_DY7R9_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6qz_64EeaCeY_zSn9Oiw" transientobject="_DY6rGP64EeaCeY_zSn9Oiw" objectstate="_DY7R-P64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q0P64EeaCeY_zSn9Oiw" transientobject="_DY6rHv64EeaCeY_zSn9Oiw" objectstate="_DY7R-f64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q0f64EeaCeY_zSn9Oiw" transientobject="_DY6q5v64EeaCeY_zSn9Oiw" objectstate="_DY7R-v64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q0v64EeaCeY_zSn9Oiw" transientobject="_DY6q5_64EeaCeY_zSn9Oiw" objectstate="_DY7R-_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q0_64EeaCeY_zSn9Oiw" transientobject="_DY6rDP64EeaCeY_zSn9Oiw" objectstate="_DY7R_P64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q1P64EeaCeY_zSn9Oiw" transientobject="_DY6q7P64EeaCeY_zSn9Oiw" objectstate="_DY7R_f64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q1f64EeaCeY_zSn9Oiw" transientobject="_DY6rC_64EeaCeY_zSn9Oiw" objectstate="_DY7R_v64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q1v64EeaCeY_zSn9Oiw" transientobject="_DY6q_f64EeaCeY_zSn9Oiw" objectstate="_DY7R__64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q1_64EeaCeY_zSn9Oiw" transientobject="_DY6rDv64EeaCeY_zSn9Oiw" objectstate="_DY7SAP64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q2P64EeaCeY_zSn9Oiw" transientobject="_DY6rFv64EeaCeY_zSn9Oiw" objectstate="_DY7SAf64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q2f64EeaCeY_zSn9Oiw" transientobject="_DY6rEP64EeaCeY_zSn9Oiw" objectstate="_DY7SAv64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q2v64EeaCeY_zSn9Oiw" transientobject="_DY6q8f64EeaCeY_zSn9Oiw" objectstate="_DY7SA_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q2_64EeaCeY_zSn9Oiw" transientobject="_DY6rE_64EeaCeY_zSn9Oiw" objectstate="_DY7SBP64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q3P64EeaCeY_zSn9Oiw" transientobject="_DY6q7v64EeaCeY_zSn9Oiw" objectstate="_DY7SBf64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q3f64EeaCeY_zSn9Oiw" transientobject="_DY6q6_64EeaCeY_zSn9Oiw" objectstate="_DY7SBv64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q3v64EeaCeY_zSn9Oiw" transientobject="_DY6q6v64EeaCeY_zSn9Oiw" objectstate="_DY7SB_64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q3_64EeaCeY_zSn9Oiw" transientobject="_DY6rAP64EeaCeY_zSn9Oiw" objectstate="_DY7SCP64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q4P64EeaCeY_zSn9Oiw" transientobject="_DY6q6P64EeaCeY_zSn9Oiw" objectstate="_DY7SCf64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q4f64EeaCeY_zSn9Oiw" transientobject="_DY6q8v64EeaCeY_zSn9Oiw" objectstate="_DY7SCv64EeaCeY_zSn9Oiw"/>
+    <transientObjectsStates xmi:id="_DY6q4v64EeaCeY_zSn9Oiw" transientobject="_DY6q_P64EeaCeY_zSn9Oiw" objectstate="_DY7SC_64EeaCeY_zSn9Oiw"/>
+  </state>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q4_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_J4EoQJvWEeSct_rnRKE6rQ"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q5P64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_w0pfIKeeEeSktvzRrqUy4Q"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q5f64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Comment" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_nogvsMHJEeSfNNFk1mcPVg"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q5v64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_4ZP5AKeeEeSktvzRrqUy4Q"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q5_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_5hmoMKeeEeSktvzRrqUy4Q"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q6P64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_tHg1MKuzEeSE7t3XfTUJwA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q6f64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_0IQosLa3EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q6v64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Parameter" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_DENqoLa4EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q6_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Parameter" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_KecnkLa4EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q7P64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Parameter" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_LWebwLa4EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q7f64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Parameter" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_N-tpULa4EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q7v64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_cF4_YLa4EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q7_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_IbbxgLa5EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q8P64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_LfibsLa5EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q8f64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_MK5s4La5EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q8v64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:JoinNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_NbX2QLa5EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q8_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_PVTzYLa5EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q9P64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ijG6cLa4EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q9f64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_dy3CELa5EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q9v64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-UEf8La4EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q9_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Parameter" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_vuF4kLa5EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q-P64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_paRKELa5EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6q-f64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q-v64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_1dtt0La5EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6q-_64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//CallBehaviorAction"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q_P64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Parameter" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_EFq1sLa6EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q_f64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_4N82QLa4EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6q_v64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//CallBehaviorAction"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6q__64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Parameter" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_R3bVYLa6EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rAP64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_W-0F8La6EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rAf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rAv64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_YEQEALa6EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rA_64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rBP64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_74zXYLa4EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rBf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//CallBehaviorAction"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rBv64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Parameter" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_PGvhALa7EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rB_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-SKJgLa6EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rCP64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rCf64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_DutRwLa7EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rCv64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rC_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_BZhN8La5EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rDP64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ihdNQLa7EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rDf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rDv64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ofLv8La7EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rD_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_pe0A8La7EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rEP64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_1MphELa7EeSK-61aCyhueA"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rEf64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ZSxocLkyEeSIsZR6NVzdnQ"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rEv64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//ReadStructuralFeatureAction"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rE_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Parameter" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_J9V6ELkzEeSIsZR6NVzdnQ"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rFP64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:CreateObjectAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_kiUqELkyEeSIsZR6NVzdnQ"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rFf64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:AddStructuralFeatureValueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_qJ1FILkyEeSIsZR6NVzdnQ"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rFv64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_3E5NYLkyEeSIsZR6NVzdnQ"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rF_64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rGP64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//Class"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rGf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//Property"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rGv64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:Activity" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_whiFELwGEeSgE4xXIji-ww"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rG_64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_24MFILwGEeSgE4xXIji-ww"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rHP64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rHf64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_9VlmYLwGEeSgE4xXIji-ww"/>
+  </transientobject>
+  <transientobject xmi:type="trace:StaticTransientObject" xmi:id="_DY6rHv64EeaCeY_zSn9Oiw">
+    <originalObject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-CYa8LwGEeSgE4xXIji-ww"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rH_64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rIP64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rIf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rIv64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rI_64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rJP64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rJf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rJv64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rJ_64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rKP64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rKf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rKv64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rK_64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rLP64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rLf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rLv64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rL_64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rMP64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rMf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rMv64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rM_64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rNP64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rNf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rNv64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rN_64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rOP64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rOf64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rOv64EeaCeY_zSn9Oiw">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rO_64EeaCeY_zSn9Oiw">
+    <type xmi:type="kernel:BehavioredEClass" href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rPP64EeaCeY_zSn9Oiw">
+    <type xmi:type="kernel:BehavioredEClass" href="http://www.modelexecution.org/xmof/example/fuml/configuration#//Loci/Executor"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rPf64EeaCeY_zSn9Oiw">
+    <type xmi:type="kernel:BehavioredEClass" href="http://www.modelexecution.org/xmof/example/fuml/configuration#//Loci/ExecutionFactory"/>
+  </transientobject>
+  <transientobject xmi:type="trace:DynamicTransientObject" xmi:id="_DY6rPv64EeaCeY_zSn9Oiw">
+    <type xmi:type="kernel:BehavioredEClass" href="http://www.modelexecution.org/xmof/example/fuml/configuration#//IntermediateActivities/ActivityExecution"/>
+  </transientobject>
+  <steptype xmi:id="_DY6rP_64EeaCeY_zSn9Oiw" stepName="fumlConfiguration.ModelConfiguration"/>
+  <steptype xmi:id="_DY6rQP64EeaCeY_zSn9Oiw" stepName="fumlConfiguration.Loci.Executor"/>
+  <steptype xmi:id="_DY6rQf64EeaCeY_zSn9Oiw" stepName="fumlConfiguration.Loci.ExecutionFactory"/>
+  <steptype xmi:id="_DY6rQv64EeaCeY_zSn9Oiw" stepName="fumlConfiguration.IntermediateActivities.ActivityExecution"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rRP64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_7F3QQKeeEeSktvzRrqUy4Q"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_t-DboKuzEeSE7t3XfTUJwA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_lmt3EMHJEeSfNNFk1mcPVg"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rRf64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_4ZP5AKeeEeSktvzRrqUy4Q"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_5hmoMKeeEeSktvzRrqUy4Q"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_tHg1MKuzEeSE7t3XfTUJwA"/>
+    <originalobject xmi:type="uml:InitialNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_k6dOAMHJEeSfNNFk1mcPVg"/>
+  </value>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY6rRv64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY6rR_64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY6rSP64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY6rSf64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rSv64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_X2PIELa4EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_YvnAELa4EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rS_64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ActivityParameterNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-piPELa3EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ActivityParameterNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Gkjk4La4EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ActivityParameterNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_RDQ_cLa4EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ActivityParameterNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Ui7kQLa4EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rTP64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_RcBBMLa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_TTrtcLa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_UPbkALa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_V-5WgLa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_W7ik8La5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_XzkZILa5EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rTf64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_IbbxgLa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ForkNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_KGSJwLa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_LfibsLa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_MK5s4La5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:JoinNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_NbX2QLa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_PVTzYLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY6rTv64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY6rT_64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY6rUP64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY6rUf64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rUv64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_gNFo0La5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_iQjVYLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rU_64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:InitialNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_czOxELa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_dy3CELa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ActivityFinalNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_euxQsLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY6rVP64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rVf64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_43H5oLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rVv64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_paRKELa5EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ActivityParameterNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_xF28wLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rV_64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OutputPin" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_tjg3YLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rWP64EeaCeY_zSn9Oiw" originalobject="_DY6q-f64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rWf64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_KB8m4La6EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rWv64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="trace:DynamicTransientObject" href="trace/OriginalOriginaltestmodel.uml#_DY6q-_64EeaCeY_zSn9Oiw"/>
+    <originalobject xmi:type="uml:ActivityParameterNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_E5OZkLa6EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rW_64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_qekqQLa6EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_rXpAQLa6EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_sEgGQLa6EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rXP64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ActivityParameterNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_SZs8ALa6EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_W-0F8La6EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_YEQEALa6EeSK-61aCyhueA"/>
+    <originalobject xmi:type="trace:DynamicTransientObject" href="trace/OriginalOriginaltestmodel.uml#_DY6q_v64EeaCeY_zSn9Oiw"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rXf64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OutputPin" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_hDhFELa6EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rXv64EeaCeY_zSn9Oiw" originalobject="_DY6rAf64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rX_64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OutputPin" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_iTYxgLa6EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rYP64EeaCeY_zSn9Oiw" originalobject="_DY6rA_64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rYf64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Tx0JALa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_UtHToLa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_VpxJILa7EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rYv64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-SKJgLa6EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_DutRwLa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="trace:DynamicTransientObject" href="trace/OriginalOriginaltestmodel.uml#_DY6rBf64EeaCeY_zSn9Oiw"/>
+    <originalobject xmi:type="uml:ActivityParameterNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Q_l5ALa7EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY6rY_64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OutputPin" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_BjYCoLa7EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7RwP64EeaCeY_zSn9Oiw" originalobject="_DY6rCP64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7Rwf64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OutputPin" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_E0JP0La7EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7Rwv64EeaCeY_zSn9Oiw" originalobject="_DY6rCv64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7Rw_64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_q_0gsLa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_r2zzELa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_spemILa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_22TmgLa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_3nekwLa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_4QnBULa7EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7RxP64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ihdNQLa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:DecisionNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_minVkLa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ofLv8La7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_pe0A8La7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:MergeNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_z4dVULa7EeSK-61aCyhueA"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_1MphELa7EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7Rxf64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OutputPin" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_jv-14La7EeSK-61aCyhueA"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7Rxv64EeaCeY_zSn9Oiw" originalobject="_DY6rDf64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY7Rx_64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY7RyP64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY7Ryf64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7Ryv64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Q6aZ4LkzEeSIsZR6NVzdnQ"/>
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_TRfmALkzEeSIsZR6NVzdnQ"/>
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_U6N3ULkzEeSIsZR6NVzdnQ"/>
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_WpljMLkzEeSIsZR6NVzdnQ"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7Ry_64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:CreateObjectAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_kiUqELkyEeSIsZR6NVzdnQ"/>
+    <originalobject xmi:type="uml:AddStructuralFeatureValueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_qJ1FILkyEeSIsZR6NVzdnQ"/>
+    <originalobject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_3E5NYLkyEeSIsZR6NVzdnQ"/>
+    <originalobject xmi:type="trace:DynamicTransientObject" href="trace/OriginalOriginaltestmodel.uml#_DY6rEv64EeaCeY_zSn9Oiw"/>
+    <originalobject xmi:type="uml:ActivityParameterNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_NC8ZELkzEeSIsZR6NVzdnQ"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7RzP64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OutputPin" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_naDsMLkyEeSIsZR6NVzdnQ"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7Rzf64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OutputPin" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_46zmILkyEeSIsZR6NVzdnQ"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7Rzv64EeaCeY_zSn9Oiw" originalobject="_DY6rF_64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7Rz_64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OutputPin" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Be8KYLkzEeSIsZR6NVzdnQ"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7R0P64EeaCeY_zSn9Oiw" originalobject="_DY6rGP64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7R0f64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ObjectFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_BKTOILwHEeSgE4xXIji-ww"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_CIq64LwHEeSgE4xXIji-ww"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_DGaVgLwHEeSgE4xXIji-ww"/>
+    <originalobject xmi:type="uml:ControlFlow" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Dyc8ILwHEeSgE4xXIji-ww"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7R0v64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:ValueSpecificationAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_24MFILwGEeSgE4xXIji-ww"/>
+    <originalobject xmi:type="uml:DecisionNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_6ByTULwGEeSgE4xXIji-ww"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_9VlmYLwGEeSgE4xXIji-ww"/>
+    <originalobject xmi:type="uml:OpaqueAction" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-CYa8LwGEeSgE4xXIji-ww"/>
+    <originalobject xmi:type="uml:InitialNode" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#__XE9ALwGEeSgE4xXIji-ww"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7R0_64EeaCeY_zSn9Oiw">
+    <originalobject xmi:type="uml:OutputPin" href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_31ez0LwGEeSgE4xXIji-ww"/>
+  </value>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7R1P64EeaCeY_zSn9Oiw" originalobject="_DY6rHP64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY7R1f64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:LiteralString" xmi:id="_DY7R1v64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7R1_64EeaCeY_zSn9Oiw" originalobject="_DY6rO_64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7R2P64EeaCeY_zSn9Oiw" originalobject="_DY6rPP64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7R2f64EeaCeY_zSn9Oiw" originalobject="_DY6rPf64EeaCeY_zSn9Oiw"/>
+  <value xmi:type="trace:RefValue" xmi:id="_DY7R2v64EeaCeY_zSn9Oiw" originalobject="_DY6rPv64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R2_64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R3P64EeaCeY_zSn9Oiw" value="_DY6rVP64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R3f64EeaCeY_zSn9Oiw" value="_DY7RzP64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R3v64EeaCeY_zSn9Oiw" value="_DY6rRv64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R3_64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rYf64EeaCeY_zSn9Oiw _DY6rYv64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rYv64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R4P64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY7R0P64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R4f64EeaCeY_zSn9Oiw" value="_DY6rV_64EeaCeY_zSn9Oiw _DY6rWP64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R4v64EeaCeY_zSn9Oiw" value="_DY6rT_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R4_64EeaCeY_zSn9Oiw" value="_DY6rUf64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R5P64EeaCeY_zSn9Oiw" value="_DY7R0_64EeaCeY_zSn9Oiw _DY7R1P64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R5f64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R5v64EeaCeY_zSn9Oiw" value="_DY7Rz_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R5_64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY7Ryv64EeaCeY_zSn9Oiw _DY7Ry_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY7Ry_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R6P64EeaCeY_zSn9Oiw" value="_DY7R1f64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R6f64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY7R0f64EeaCeY_zSn9Oiw _DY7R0v64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY7R0v64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R6v64EeaCeY_zSn9Oiw" value="_DY6rY_64EeaCeY_zSn9Oiw _DY7RwP64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R6_64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R7P64EeaCeY_zSn9Oiw" value="_DY7RyP64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R7f64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rWf64EeaCeY_zSn9Oiw _DY6rWv64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rWv64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R7v64EeaCeY_zSn9Oiw" value="_DY6rX_64EeaCeY_zSn9Oiw _DY6rYP64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R7_64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R8P64EeaCeY_zSn9Oiw" value="_DY6rTv64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R8f64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R8v64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rUv64EeaCeY_zSn9Oiw _DY6rU_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rU_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R8_64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rSv64EeaCeY_zSn9Oiw _DY6rS_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rS_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R9P64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R9f64EeaCeY_zSn9Oiw" value="_DY7Rwf64EeaCeY_zSn9Oiw _DY7Rwv64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R9v64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rRP64EeaCeY_zSn9Oiw _DY6rRf64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rRf64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R9_64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rVf64EeaCeY_zSn9Oiw _DY6rVv64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rVv64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R-P64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R-f64EeaCeY_zSn9Oiw" value="_DY7R1v64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R-v64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rR_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R-_64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rSP64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R_P64EeaCeY_zSn9Oiw" value="_DY7Rxf64EeaCeY_zSn9Oiw _DY7Rxv64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R_f64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R_v64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY7Rw_64EeaCeY_zSn9Oiw _DY7RxP64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY7RxP64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7R__64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rW_64EeaCeY_zSn9Oiw _DY6rXP64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rXP64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SAP64EeaCeY_zSn9Oiw" value="_DY7Rx_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SAf64EeaCeY_zSn9Oiw" value="_DY7Rzf64EeaCeY_zSn9Oiw _DY7Rzv64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SAv64EeaCeY_zSn9Oiw" value="_DY7Ryf64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SA_64EeaCeY_zSn9Oiw" value="_DY6rUP64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SBP64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SBf64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rTP64EeaCeY_zSn9Oiw _DY6rTf64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rTf64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SBv64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SB_64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SCP64EeaCeY_zSn9Oiw" value="_DY6rXf64EeaCeY_zSn9Oiw _DY6rXv64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SCf64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rSf64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SCv64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <objectstate xmi:type="trace:LeafObjectState" xmi:id="_DY7SC_64EeaCeY_zSn9Oiw" value="_DY6rQ_64EeaCeY_zSn9Oiw _DY6rQ_64EeaCeY_zSn9Oiw"/>
+  <step xmi:type="trace:NormalStep" xmi:id="_DY7SDP64EeaCeY_zSn9Oiw" state="_DY6qsf64EeaCeY_zSn9Oiw" parameterlist="_DY7SF_64EeaCeY_zSn9Oiw" steptype="_DY6rP_64EeaCeY_zSn9Oiw">
+    <children xmi:type="trace:NormalStep" xmi:id="_DY7SDf64EeaCeY_zSn9Oiw" state="_DY6qsf64EeaCeY_zSn9Oiw" parameterlist="_DY7SGP64EeaCeY_zSn9Oiw" steptype="_DY6rQP64EeaCeY_zSn9Oiw">
+      <children xmi:type="trace:NormalStep" xmi:id="_DY7SDv64EeaCeY_zSn9Oiw" state="_DY6qsf64EeaCeY_zSn9Oiw" parameterlist="_DY7SGf64EeaCeY_zSn9Oiw" steptype="_DY6rQf64EeaCeY_zSn9Oiw">
+        <children xmi:type="trace:NormalStep" xmi:id="_DY7SD_64EeaCeY_zSn9Oiw" state="_DY6qsf64EeaCeY_zSn9Oiw" parameterlist="_DY7SGv64EeaCeY_zSn9Oiw" steptype="_DY6rQf64EeaCeY_zSn9Oiw">
+          <children xmi:type="trace:NormalStep" xmi:id="_DY7SEP64EeaCeY_zSn9Oiw" state="_DY6qsf64EeaCeY_zSn9Oiw" parameterlist="_DY7SG_64EeaCeY_zSn9Oiw" steptype="_DY6rQv64EeaCeY_zSn9Oiw"/>
+        </children>
+        <children xmi:type="trace:NormalStep" xmi:id="_DY7SEf64EeaCeY_zSn9Oiw" state="_DY6qsf64EeaCeY_zSn9Oiw" parameterlist="_DY7SHP64EeaCeY_zSn9Oiw" steptype="_DY6rQv64EeaCeY_zSn9Oiw">
+          <children xmi:type="trace:NormalStep" xmi:id="_DY7SEv64EeaCeY_zSn9Oiw" state="_DY6qsf64EeaCeY_zSn9Oiw" parameterlist="_DY7SHf64EeaCeY_zSn9Oiw" steptype="_DY6rQv64EeaCeY_zSn9Oiw"/>
+        </children>
+      </children>
+    </children>
+  </step>
+  <parameterValues xmi:id="_DY7SE_64EeaCeY_zSn9Oiw" values="_DY7R1_64EeaCeY_zSn9Oiw"/>
+  <parameterValues xmi:id="_DY7SFP64EeaCeY_zSn9Oiw" values="_DY7R2P64EeaCeY_zSn9Oiw"/>
+  <parameterValues xmi:id="_DY7SFf64EeaCeY_zSn9Oiw" values="_DY7R2f64EeaCeY_zSn9Oiw"/>
+  <parameterValues xmi:id="_DY7SFv64EeaCeY_zSn9Oiw" values="_DY7R2v64EeaCeY_zSn9Oiw"/>
+  <parameterlist xmi:type="trace:LeafParameterList" xmi:id="_DY7SF_64EeaCeY_zSn9Oiw" parametervalue="_DY7SE_64EeaCeY_zSn9Oiw _DY7SE_64EeaCeY_zSn9Oiw _DY7SE_64EeaCeY_zSn9Oiw"/>
+  <parameterlist xmi:type="trace:LeafParameterList" xmi:id="_DY7SGP64EeaCeY_zSn9Oiw" parametervalue="_DY7SFP64EeaCeY_zSn9Oiw _DY7SE_64EeaCeY_zSn9Oiw _DY7SFP64EeaCeY_zSn9Oiw"/>
+  <parameterlist xmi:type="trace:LeafParameterList" xmi:id="_DY7SGf64EeaCeY_zSn9Oiw" parametervalue="_DY7SFf64EeaCeY_zSn9Oiw _DY7SE_64EeaCeY_zSn9Oiw _DY7SFf64EeaCeY_zSn9Oiw"/>
+  <parameterlist xmi:type="trace:LeafParameterList" xmi:id="_DY7SGv64EeaCeY_zSn9Oiw" parametervalue="_DY7SFf64EeaCeY_zSn9Oiw _DY7SE_64EeaCeY_zSn9Oiw _DY7SFP64EeaCeY_zSn9Oiw _DY7SFf64EeaCeY_zSn9Oiw"/>
+  <parameterlist xmi:type="trace:LeafParameterList" xmi:id="_DY7SG_64EeaCeY_zSn9Oiw" parametervalue="_DY7SFv64EeaCeY_zSn9Oiw _DY7SE_64EeaCeY_zSn9Oiw _DY7SFP64EeaCeY_zSn9Oiw _DY7SFv64EeaCeY_zSn9Oiw"/>
+  <parameterlist xmi:type="trace:LeafParameterList" xmi:id="_DY7SHP64EeaCeY_zSn9Oiw" parametervalue="_DY7SFv64EeaCeY_zSn9Oiw _DY7SE_64EeaCeY_zSn9Oiw _DY7SFP64EeaCeY_zSn9Oiw _DY7SFv64EeaCeY_zSn9Oiw _DY7SFf64EeaCeY_zSn9Oiw"/>
+  <parameterlist xmi:type="trace:LeafParameterList" xmi:id="_DY7SHf64EeaCeY_zSn9Oiw" parametervalue="_DY7SFv64EeaCeY_zSn9Oiw _DY7SE_64EeaCeY_zSn9Oiw _DY7SFP64EeaCeY_zSn9Oiw _DY7SE_64EeaCeY_zSn9Oiw _DY7SFf64EeaCeY_zSn9Oiw"/>
+</trace:Trace>

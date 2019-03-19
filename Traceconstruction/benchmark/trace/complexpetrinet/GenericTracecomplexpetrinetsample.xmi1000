@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace">
+  <basestate>
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.0"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.1" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.2"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.3" objectstate="//@objectstate.3"/>
+  </basestate>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#//@place.0"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#//@place.1"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#//@place.2"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#//@place.3"/>
+  </tracedobject>
+  <steptype stepName="petrinet.Net"/>
+  <steptype stepName="petrinet.Transition"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#//@place.0"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#//@place.1"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#//@place.2"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#//@place.3"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#/"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#//@transition.0"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/src/models/complexpetrinetsample.xmi#//@transition.1"/>
+  </value>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.1"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.2"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.3"/>
+  <step xsi:type="trace:NormalStep" steptype="//@steptype.0">
+    <children xsi:type="trace:NormalStep" steptype="//@steptype.1">
+      <children xsi:type="trace:NormalStep" steptype="//@steptype.1"/>
+    </children>
+  </step>
+  <parameterValues values="//@value.4"/>
+  <parameterValues values="//@value.5"/>
+  <parameterValues values="//@value.6"/>
+</trace:Trace>
