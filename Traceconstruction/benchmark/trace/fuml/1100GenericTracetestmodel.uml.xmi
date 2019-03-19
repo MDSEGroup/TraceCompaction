@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace">
+  <basestate newobjects="//@tracedobject.0 //@tracedobject.1 //@tracedobject.2 //@tracedobject.3 //@tracedobject.4 //@tracedobject.5 //@tracedobject.6 //@tracedobject.7 //@tracedobject.8 //@tracedobject.9 //@tracedobject.10 //@tracedobject.11 //@tracedobject.12 //@tracedobject.13 //@tracedobject.14 //@tracedobject.15 //@tracedobject.16 //@tracedobject.17 //@tracedobject.18 //@tracedobject.19 //@tracedobject.20 //@tracedobject.21 //@tracedobject.23 //@tracedobject.25 //@tracedobject.26 //@tracedobject.28 //@tracedobject.29 //@tracedobject.31 //@tracedobject.33 //@tracedobject.35 //@tracedobject.36 //@tracedobject.38 //@tracedobject.40 //@tracedobject.41 //@tracedobject.43 //@tracedobject.44 //@tracedobject.45 //@tracedobject.46 //@tracedobject.48 //@tracedobject.49 //@tracedobject.50 //@tracedobject.51 //@tracedobject.53 //@tracedobject.54 //@tracedobject.55 //@tracedobject.56 //@tracedobject.58 //@tracedobject.59 //@tracedobject.60 //@tracedobject.61 //@tracedobject.62 //@tracedobject.63 //@tracedobject.64 //@tracedobject.65 //@tracedobject.66 //@tracedobject.67 //@tracedobject.68 //@tracedobject.69 //@tracedobject.70 //@tracedobject.71 //@tracedobject.72 //@tracedobject.73 //@tracedobject.74 //@tracedobject.75 //@tracedobject.76 //@tracedobject.77 //@tracedobject.78 //@tracedobject.79 //@tracedobject.80 //@tracedobject.81 //@tracedobject.82 //@tracedobject.83 //@tracedobject.84 //@tracedobject.85 //@tracedobject.86 //@tracedobject.87">
+    <tracedObjectsStates tracedobject="//@tracedobject.1" objectstate="//@objectstate.0"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.3" objectstate="//@objectstate.2"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.4" objectstate="//@objectstate.3"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.4"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.6" objectstate="//@objectstate.5"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.11" objectstate="//@objectstate.6"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.12" objectstate="//@objectstate.7"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.13" objectstate="//@objectstate.8"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.14" objectstate="//@objectstate.9"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.16" objectstate="//@objectstate.10"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.17" objectstate="//@objectstate.11"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.18" objectstate="//@objectstate.12"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.19" objectstate="//@objectstate.13"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.21" objectstate="//@objectstate.14"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.23" objectstate="//@objectstate.15"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.26" objectstate="//@objectstate.16"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.29" objectstate="//@objectstate.17"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.31" objectstate="//@objectstate.18"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.33" objectstate="//@objectstate.19"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.36" objectstate="//@objectstate.20"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.38" objectstate="//@objectstate.21"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.40" objectstate="//@objectstate.22"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.41" objectstate="//@objectstate.23"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.43" objectstate="//@objectstate.24"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.44" objectstate="//@objectstate.25"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.45" objectstate="//@objectstate.26"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.46" objectstate="//@objectstate.27"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.49" objectstate="//@objectstate.28"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.51" objectstate="//@objectstate.29"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.47" objectstate="//@objectstate.30"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.54" objectstate="//@objectstate.31"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.55" objectstate="//@objectstate.32"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.56" objectstate="//@objectstate.33"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.58" objectstate="//@objectstate.34"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.59" objectstate="//@objectstate.35"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.47" objectstate="//@objectstate.30"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.54" objectstate="//@objectstate.31"/>
+  </basestate>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_J4EoQJvWEeSct_rnRKE6rQ"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_w0pfIKeeEeSktvzRrqUy4Q"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_nogvsMHJEeSfNNFk1mcPVg"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_4ZP5AKeeEeSktvzRrqUy4Q"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_5hmoMKeeEeSktvzRrqUy4Q"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_tHg1MKuzEeSE7t3XfTUJwA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_0IQosLa3EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_DENqoLa4EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_KecnkLa4EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_LWebwLa4EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_N-tpULa4EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_cF4_YLa4EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_IbbxgLa5EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_LfibsLa5EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_MK5s4La5EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_NbX2QLa5EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_PVTzYLa5EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ijG6cLa4EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_dy3CELa5EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-UEf8La4EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_vuF4kLa5EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_paRKELa5EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_1dtt0La5EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//CallBehaviorAction"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_EFq1sLa6EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_4N82QLa4EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//CallBehaviorAction"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_R3bVYLa6EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_W-0F8La6EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_YEQEALa6EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_74zXYLa4EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//CallBehaviorAction"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_PGvhALa7EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-SKJgLa6EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_DutRwLa7EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_BZhN8La5EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ihdNQLa7EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ofLv8La7EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_pe0A8La7EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_1MphELa7EeSK-61aCyhueA"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ZSxocLkyEeSIsZR6NVzdnQ"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//ReadStructuralFeatureAction"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_J9V6ELkzEeSIsZR6NVzdnQ"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_kiUqELkyEeSIsZR6NVzdnQ"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_qJ1FILkyEeSIsZR6NVzdnQ"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_3E5NYLkyEeSIsZR6NVzdnQ"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//Class"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//Property"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_whiFELwGEeSgE4xXIji-ww"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_24MFILwGEeSgE4xXIji-ww"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_9VlmYLwGEeSgE4xXIji-ww"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:StaticTracedObject">
+    <originalObject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-CYa8LwGEeSgE4xXIji-ww"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralInteger"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.eclipse.org/uml2/5.0.0/UML#//LiteralBoolean"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <tracedobject xsi:type="trace:DynamicTracedObject">
+    <type href="http://www.modelexecution.org/xmof/example/fuml/configuration#//ModelConfiguration"/>
+  </tracedobject>
+  <steptype stepName="fumlConfiguration.ModelConfiguration"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_7F3QQKeeEeSktvzRrqUy4Q"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_t-DboKuzEeSE7t3XfTUJwA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_lmt3EMHJEeSfNNFk1mcPVg"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_4ZP5AKeeEeSktvzRrqUy4Q"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_5hmoMKeeEeSktvzRrqUy4Q"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_tHg1MKuzEeSE7t3XfTUJwA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_k6dOAMHJEeSfNNFk1mcPVg"/>
+  </value>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_X2PIELa4EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_YvnAELa4EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-piPELa3EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Gkjk4La4EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_RDQ_cLa4EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Ui7kQLa4EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_RcBBMLa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_TTrtcLa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_UPbkALa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_V-5WgLa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_W7ik8La5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_XzkZILa5EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_IbbxgLa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_KGSJwLa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_LfibsLa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_MK5s4La5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_NbX2QLa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_PVTzYLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_gNFo0La5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_iQjVYLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_czOxELa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_dy3CELa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_euxQsLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_43H5oLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_paRKELa5EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_xF28wLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_tjg3YLa5EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue" originalobject="//@tracedobject.22"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_KB8m4La6EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="trace/1100GenericTracetestmodel.uml.xmi#//@tracedobject.24"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_E5OZkLa6EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_qekqQLa6EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_rXpAQLa6EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_sEgGQLa6EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_SZs8ALa6EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_W-0F8La6EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_YEQEALa6EeSK-61aCyhueA"/>
+    <originalobject href="trace/1100GenericTracetestmodel.uml.xmi#//@tracedobject.27"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_hDhFELa6EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue" originalobject="//@tracedobject.30"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_iTYxgLa6EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue" originalobject="//@tracedobject.32"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Tx0JALa7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_UtHToLa7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_VpxJILa7EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-SKJgLa6EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_DutRwLa7EeSK-61aCyhueA"/>
+    <originalobject href="trace/1100GenericTracetestmodel.uml.xmi#//@tracedobject.34"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Q_l5ALa7EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_BjYCoLa7EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue" originalobject="//@tracedobject.37"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_E0JP0La7EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue" originalobject="//@tracedobject.39"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_q_0gsLa7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_r2zzELa7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_spemILa7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_22TmgLa7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_3nekwLa7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_4QnBULa7EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ihdNQLa7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_minVkLa7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_ofLv8La7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_pe0A8La7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_z4dVULa7EeSK-61aCyhueA"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_1MphELa7EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_jv-14La7EeSK-61aCyhueA"/>
+  </value>
+  <value xsi:type="trace:RefValue" originalobject="//@tracedobject.42"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Q6aZ4LkzEeSIsZR6NVzdnQ"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_TRfmALkzEeSIsZR6NVzdnQ"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_U6N3ULkzEeSIsZR6NVzdnQ"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_WpljMLkzEeSIsZR6NVzdnQ"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_kiUqELkyEeSIsZR6NVzdnQ"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_qJ1FILkyEeSIsZR6NVzdnQ"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_3E5NYLkyEeSIsZR6NVzdnQ"/>
+    <originalobject href="trace/1100GenericTracetestmodel.uml.xmi#//@tracedobject.47"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_NC8ZELkzEeSIsZR6NVzdnQ"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_naDsMLkyEeSIsZR6NVzdnQ"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_46zmILkyEeSIsZR6NVzdnQ"/>
+  </value>
+  <value xsi:type="trace:RefValue" originalobject="//@tracedobject.52"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Be8KYLkzEeSIsZR6NVzdnQ"/>
+  </value>
+  <value xsi:type="trace:RefValue" originalobject="//@tracedobject.53"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_BKTOILwHEeSgE4xXIji-ww"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_CIq64LwHEeSgE4xXIji-ww"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_DGaVgLwHEeSgE4xXIji-ww"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_Dyc8ILwHEeSgE4xXIji-ww"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_24MFILwGEeSgE4xXIji-ww"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_6ByTULwGEeSgE4xXIji-ww"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_9VlmYLwGEeSgE4xXIji-ww"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_-CYa8LwGEeSgE4xXIji-ww"/>
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#__XE9ALwGEeSgE4xXIji-ww"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/org.modelexecution.xmof.examples.fuml.models/testmodel.uml#_31ez0LwGEeSgE4xXIji-ww"/>
+  </value>
+  <value xsi:type="trace:RefValue" originalobject="//@tracedobject.57"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:LiteralString"/>
+  <value xsi:type="trace:RefValue" originalobject="//@tracedobject.128"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 //@value.1 //@value.1"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.2"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.3"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.4"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.5"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.6 //@value.7 //@value.7"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.8 //@value.9 //@value.9"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.10"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.11"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.12"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.13"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.14 //@value.15 //@value.15"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.16"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.17 //@value.18 //@value.18"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.19 //@value.20"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.21 //@value.22 //@value.22"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.23 //@value.24 //@value.24"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.25 //@value.26"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.27 //@value.28"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.29 //@value.30 //@value.30"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.31 //@value.32"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.33 //@value.34"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.35 //@value.36 //@value.36"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.37 //@value.38"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.39"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.40"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.41"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.42 //@value.43 //@value.43"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.44"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.45 //@value.46"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.47"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.48"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.49 //@value.50 //@value.50"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.51 //@value.52"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.53"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.54"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.0" parameterlist="//@parameterlists.0" steptype="//@steptype.0"/>
+  <parameterlists xsi:type="trace:LeafParameterList" values="//@parameterValues.0"/>
+  <parameterValues values="//@value.55"/>
+</trace:Trace>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace">
+  <basestate newobjects="//@tracedobject.0 //@tracedobject.1 //@tracedobject.2 //@tracedobject.3 //@tracedobject.4 //@tracedobject.5">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.0"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.1" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.2"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.3" objectstate="//@objectstate.3"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.4" objectstate="//@objectstate.0"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.5" objectstate="//@objectstate.0"/>
+  </basestate>
+  <basestate newobjects="//@tracedobject.6" deletedobjects="//@tracedobject.4 //@tracedobject.5" basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.6" objectstate="//@objectstate.0"/>
+  </basestate>
+  <basestate newobjects="//@tracedobject.7" deletedobjects="//@tracedobject.4 //@tracedobject.5" basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.7" objectstate="//@objectstate.0"/>
+  </basestate>
+  <basestate deletedobjects="//@tracedobject.7" basestate="//@basestate.2"/>
+  <tracedobject>
+    <originalObject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@place.0"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@place.1"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@place.2"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@place.3"/>
+  </tracedobject>
+  <tracedobject/>
+  <tracedobject>
+    <originalObject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@place.1/@tokens.0"/>
+  </tracedobject>
+  <tracedobject/>
+  <tracedobject>
+    <originalObject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@place.3/@tokens.0"/>
+  </tracedobject>
+  <steptype StepName="run"/>
+  <steptype StepName="fire"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@place.0"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@place.1"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@place.2"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@place.3"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#/"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@transition.0"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/complexpetrinetsample.xmi#//@transition.1"/>
+  </value>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.1"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.2"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.3"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.3" parameterset="//@parametersets.2" steptype="run">
+    <children xsi:type="trace:NormalStep" state="//@basestate.1" parameterset="//@parametersets.0" steptype="fire"/>
+    <children xsi:type="trace:NormalStep" state="//@basestate.2" parameterset="//@parametersets.1" steptype="fire"/>
+  </step>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.1"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.2"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.0"/>
+  <parameterValues values="//@value.4"/>
+  <parameterValues values="//@value.5"/>
+  <parameterValues values="//@value.6"/>
+</trace:Trace>
