@@ -256,6 +256,12 @@ public class GenericTraceConstructor {
 			var LeafParameterList leafparamset = step.parameterlist as LeafParameterList
 			createParameterList(leafparamset, rstep)
 		}
+		
+        long nano_startTime = System.nanoTime(); 
+        long millis_startTime = System.currentTimeMillis(); 
+  
+        // Perform the work whose time is to be measured 
+       
 
 
 		if (parametercompaction == true)
@@ -284,6 +290,18 @@ public class GenericTraceConstructor {
 			decompactor = new GenericTraceDecompactor()
 			decompactor.Decompactor(trace, filename)
 		}
+		// Get the current system time in both 
+        // nano and milli-seconds after 
+        // the function returns. 
+        long nano_endTime = System.nanoTime(); 
+		
+		
+		// Print the time taken by subtracting 
+        // the end-time from the start-time 
+        System.out.println("Time taken in nano seconds: "
+                           + (nano_endTime - nano_startTime)); 
+        System.out.println("Time taken in milli seconds: "
+                           + (millis_endTime - millis_startTime)); 
 	}
 
 	// ***************************************************************************************************
