@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trace:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trace="trace">
+  <basestate newobjects="//@tracedobject.0 //@tracedobject.1 //@tracedobject.2">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.0"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.1" objectstate="//@objectstate.1"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.2"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.3"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.4"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.5"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.6"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.7"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.9"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.10"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.12"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.13"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.15"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.16"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.18"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.19"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.21"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.22"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.24"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.25"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.27"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.28"/>
+  </basestate>
+  <basestate basestate="//@basestate.10">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.30"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.1" objectstate="//@objectstate.31"/>
+  </basestate>
+  <basestate basestate="//@basestate.11">
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.32"/>
+  </basestate>
+  <basestate basestate="//@basestate.12">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.29"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.33"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.32"/>
+  </basestate>
+  <basestate basestate="//@basestate.14">
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.34"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.35"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.36"/>
+  </basestate>
+  <basestate basestate="//@basestate.16">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.37"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.39"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.40"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.42"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.43"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.45"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.46"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.48"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.49"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.51"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.52"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.54"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.55"/>
+  </basestate>
+  <basestate basestate="//@basestate.0">
+    <tracedObjectsStates tracedobject="//@tracedobject.0" objectstate="//@objectstate.57"/>
+    <tracedObjectsStates tracedobject="//@tracedobject.2" objectstate="//@objectstate.58"/>
+  </basestate>
+  <tracedobject>
+    <originalObject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0/@localEvents.0"/>
+  </tracedobject>
+  <tracedobject>
+    <originalObject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0/@localClock"/>
+  </tracedobject>
+  <steptype StepName="init"/>
+  <steptype StepName="ticks"/>
+  <steptype StepName="visit"/>
+  <steptype StepName="fire"/>
+  <steptype StepName="trigger"/>
+  <steptype StepName="unTrigger"/>
+  <steppattern repeatingstep="//@repeatingstep.0 //@repeatingstep.1"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0"/>
+  </value>
+  <value xsi:type="trace:LiteralInteger"/>
+  <value xsi:type="trace:LiteralBoolean"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="1"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0/@localClock"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0/@ownedStates.0"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0/@ownedTransitions.0"/>
+  </value>
+  <value xsi:type="trace:LiteralInteger" intvalue="2"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0/@ownedStates.1"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0/@ownedTransitions.1"/>
+  </value>
+  <value xsi:type="trace:LiteralInteger" intvalue="3"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="4"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0/@ownedStates.2"/>
+  </value>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0/@ownedTransitions.2"/>
+  </value>
+  <value xsi:type="trace:LiteralInteger" intvalue="5"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="6"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="7"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="8"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="9"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="10"/>
+  <value xsi:type="trace:RefValue">
+    <originalobject href="platform:/resource/exampleproj/gemoc-gen/models/TFSM_simpleTrafficLight.xmi#//@tfsms.0/@localEvents.0"/>
+  </value>
+  <value xsi:type="trace:LiteralBoolean" boolvalue="true"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="11"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="12"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="13"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="14"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="15"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="16"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="17"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="18"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="19"/>
+  <value xsi:type="trace:LiteralInteger" intvalue="20"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 //@value.1"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.2"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="1"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.1"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.0 //@objectstate.2"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="2"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.0 //@objectstate.5"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="3"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 3"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.5 //@objectstate.8"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="4"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 4"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.5 //@objectstate.11"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="5"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 5"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.5 //@objectstate.14"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="6"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 6"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.5 //@objectstate.17"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="7"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 7"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.5 //@objectstate.20"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="8"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 8"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.5 //@objectstate.23"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="9"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 9"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.5 //@objectstate.26"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="10"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 10"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.5 //@objectstate.29"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="true"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="11"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.29 //@objectstate.32"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="12"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.29 //@objectstate.34"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="13"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.34 //@objectstate.0"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 13"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.34 //@objectstate.38"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="14"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 14"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.34 //@objectstate.41"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="15"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 15"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.34 //@objectstate.44"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="16"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 16"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.34 //@objectstate.47"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="17"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 17"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.34 //@objectstate.50"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="18"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 18"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.34 //@objectstate.53"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="19"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="//@value.0 19"/>
+  <objectstate xsi:type="trace:CompositeObjectState" objectstates="//@objectstate.34 //@objectstate.56"/>
+  <objectstate xsi:type="trace:LeafObjectState" value="20"/>
+  <repeatingstep steptype="ticks"/>
+  <repeatingstep steptype="visit">
+    <children steptype="visit"/>
+  </repeatingstep>
+  <step xsi:type="trace:NormalStep" state="//@basestate.1" parameterset="//@parametersets.0" steptype="init"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.0" parameterset="//@parametersets.1" steptype="ticks"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.0" parameterset="//@parametersets.3" steptype="visit">
+    <children xsi:type="trace:NormalStep" state="//@basestate.0" parameterset="//@parametersets.2" steptype="visit">
+      <children xsi:type="trace:NormalStep" state="//@basestate.0" parameterset="//@parametersets.2" steptype="fire"/>
+    </children>
+  </step>
+  <step xsi:type="trace:NormalStep" state="//@basestate.2" parameterset="//@parametersets.1" steptype="ticks"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.2" parameterset="//@parametersets.5" steptype="visit">
+    <children xsi:type="trace:NormalStep" state="//@basestate.2" parameterset="//@parametersets.4" steptype="visit"/>
+  </step>
+  <step xsi:type="trace:NormalStep" state="//@basestate.3" parameterset="//@parametersets.1" steptype="ticks"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.3" parameterset="//@parametersets.5" steptype="visit">
+    <children xsi:type="trace:NormalStep" state="//@basestate.3" parameterset="//@parametersets.4" steptype="visit">
+      <children xsi:type="trace:NormalStep" state="//@basestate.3" parameterset="//@parametersets.4" steptype="fire"/>
+    </children>
+  </step>
+  <step xsi:type="trace:PatternOcurrence" pattern="//@steppattern.0" repet="7">
+    <stepdata states="//@basestate.4 //@basestate.5 //@basestate.6 //@basestate.7 //@basestate.8 //@basestate.9 //@basestate.10" step="//@repeatingstep.0" parameterSets="//@parametersets.1 //@parametersets.1 //@parametersets.1 //@parametersets.1 //@parametersets.1 //@parametersets.1 //@parametersets.1"/>
+    <stepdata states="//@basestate.4 //@basestate.5 //@basestate.6 //@basestate.7 //@basestate.8 //@basestate.9 //@basestate.10" step="//@repeatingstep.1" parameterSets="//@parametersets.7 //@parametersets.7 //@parametersets.7 //@parametersets.7 //@parametersets.7 //@parametersets.7 //@parametersets.7"/>
+    <stepdata states="//@basestate.4 //@basestate.5 //@basestate.6 //@basestate.7 //@basestate.8 //@basestate.9 //@basestate.10" step="//@repeatingstep.1/@children.0" parameterSets="//@parametersets.6 //@parametersets.6 //@parametersets.6 //@parametersets.6 //@parametersets.6 //@parametersets.6 //@parametersets.6"/>
+  </step>
+  <step xsi:type="trace:NormalStep" state="//@basestate.11" parameterset="//@parametersets.8" steptype="trigger"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.12" parameterset="//@parametersets.1" steptype="ticks"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.13" parameterset="//@parametersets.7" steptype="visit">
+    <children xsi:type="trace:NormalStep" state="//@basestate.13" parameterset="//@parametersets.6" steptype="visit">
+      <children xsi:type="trace:NormalStep" state="//@basestate.12" parameterset="//@parametersets.6" steptype="fire"/>
+    </children>
+  </step>
+  <step xsi:type="trace:NormalStep" state="//@basestate.14" parameterset="//@parametersets.8" steptype="unTrigger"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.15" parameterset="//@parametersets.1" steptype="ticks"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.15" parameterset="//@parametersets.5" steptype="visit">
+    <children xsi:type="trace:NormalStep" state="//@basestate.15" parameterset="//@parametersets.4" steptype="visit"/>
+  </step>
+  <step xsi:type="trace:NormalStep" state="//@basestate.16" parameterset="//@parametersets.1" steptype="ticks"/>
+  <step xsi:type="trace:PatternOcurrence" pattern="//@steppattern.0" repet="7">
+    <stepdata states="//@basestate.17 //@basestate.18 //@basestate.19 //@basestate.20 //@basestate.21 //@basestate.22 //@basestate.23" step="//@repeatingstep.0" parameterSets="//@parametersets.5 //@parametersets.1 //@parametersets.1 //@parametersets.1 //@parametersets.1 //@parametersets.1 //@parametersets.1"/>
+    <stepdata states="//@basestate.17 //@basestate.18 //@basestate.19 //@basestate.20 //@basestate.21 //@basestate.22 //@basestate.23" step="//@repeatingstep.1" parameterSets="//@parametersets.4 //@parametersets.7 //@parametersets.7 //@parametersets.7 //@parametersets.7 //@parametersets.7 //@parametersets.7"/>
+    <stepdata states="//@basestate.16 //@basestate.18 //@basestate.19 //@basestate.20 //@basestate.21 //@basestate.22 //@basestate.23" step="//@repeatingstep.1/@children.0" parameterSets="//@parametersets.4 //@parametersets.6 //@parametersets.6 //@parametersets.6 //@parametersets.6 //@parametersets.6 //@parametersets.6"/>
+  </step>
+  <step xsi:type="trace:NormalStep" state="//@basestate.24" parameterset="//@parametersets.1" steptype="ticks"/>
+  <step xsi:type="trace:NormalStep" state="//@basestate.24" parameterset="//@parametersets.7" steptype="visit">
+    <children xsi:type="trace:NormalStep" state="//@basestate.24" parameterset="//@parametersets.6" steptype="visit"/>
+  </step>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.0"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.1"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.3"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.2"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.5"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.4"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.7"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.6"/>
+  <parametersets xsi:type="trace:LeafParameterSet" values="//@parameterValues.8"/>
+  <parameterValues values="//@value.0"/>
+  <parameterValues values="//@value.4"/>
+  <parameterValues values="//@value.5"/>
+  <parameterValues values="//@value.6"/>
+  <parameterValues values="//@value.8"/>
+  <parameterValues values="//@value.9"/>
+  <parameterValues values="//@value.12"/>
+  <parameterValues values="//@value.13"/>
+  <parameterValues values="//@value.20"/>
+</trace:Trace>
