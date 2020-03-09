@@ -1,1 +1,2 @@
-source code is to be put into this folder
+to run the source, 
+open the project in eclipse gemoc studio and setup the required plugins
